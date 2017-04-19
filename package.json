@@ -1,0 +1,15 @@
+{
+  "name": "realestate-au-scraper",
+  "version": "1.0.0",
+  "description": "Improve your life by programmatically scraping Australian property listings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christine Jiang",
+  "license": "ISC",
+  "dependencies": {
+    "jsonexport": "^1.5.2"
+  }
+}

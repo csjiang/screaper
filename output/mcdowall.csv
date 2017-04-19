@@ -1,0 +1,1001 @@
+address,baths,beds,cars,link,price,solddate,type
+"20 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124765314,"$587,500",10 Apr 2017,house
+"1 Zeppo Place, McDowall", 3, 4, 6,/sold/property-house-qld-mcdowall-124779474,"$741,000",03 Apr 2017,house
+"14/195 Old Northern Road, McDowall", 1, 3, 1,/sold/property-unit-qld-mcdowall-124677082,"$415,500",17 Mar 2017,unit
+"12/95 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-124158958,"$303,000",16 Mar 2017,apartment
+"40 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124259454,"$563,000",15 Mar 2017,house
+"12 Van Dyke Cres, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124191926,"$585,000",10 Mar 2017,house
+"25 Nicholas st, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-124458766,"$805,000",07 Mar 2017,house
+"50 Keona Road, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201546846,"$460,000",28 Feb 2017,residential land
+"1 Sarandon Close, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-124505170,"$630,000",22 Feb 2017,house
+"20 Lazenby Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-124187346,"$645,000",21 Feb 2017,house
+"25 Redford Crescent, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-122910170,"$686,500",10 Feb 2017,house
+"51 Gleason st, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124136986,"$607,000",09 Feb 2017,house
+"941 Rode Road, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-124195206,"$461,000",06 Feb 2017,house
+"23/95 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-124338702,"$362,500",03 Feb 2017,unit
+"21 Belafonte Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-124449894,"$583,000",28 Jan 2017,house
+"11 Harlow Place, McDowall", 3, 6, 2,/sold/property-house-qld-mcdowall-124593930,"$1,080,700",27 Jan 2017,house
+"20 Tranquil Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-124237054,"$655,000",15 Jan 2017,house
+"14/216 Trouts Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-124108622,"$400,000",13 Jan 2017,townhouse
+"34 Brynner Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123953342,"$575,000",12 Jan 2017,house
+"28 Tranquil Pl, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201316610,"$364,000",11 Jan 2017,residential land
+"11 Redford Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123920042,"$681,000",09 Jan 2017,house
+"32 Landis Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-124260006,"$506,000",06 Jan 2017,house
+"876 Rode Rd, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-124108730,"$420,000",06 Jan 2017,house
+"4 Kingfisher Close, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-123756298,"$835,000",05 Jan 2017,house
+"70 Sinatra Cres, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124130458,"$522,000",03 Jan 2017,house
+"15 Hackman St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123920686,"$625,000",29 Dec 2016,house
+"6 Landon Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124063426,"$695,000",19 Dec 2016,house
+"9 Landon Close, McDowall", 4, 7, 2,/sold/property-house-qld-mcdowall-123738570,"$1,209,000",16 Dec 2016,house
+"16 Hoskins Close, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-123799614,"$785,000",16 Dec 2016,house
+"8 Monroe Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-123799478,"$781,000",16 Dec 2016,house
+"49 Hackman Street, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-123290830,"$703,000",15 Dec 2016,house
+"52 Streisand Drive, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-123935426,"$760,250",12 Dec 2016,house
+"40 Van Dyke Crescent, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-123896022,"$745,000",07 Dec 2016,house
+"4 Macnee Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-123993094,"$665,000",07 Dec 2016,house
+"9 Ustinov Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124107846,"$590,000",06 Dec 2016,house
+"1 Britt Place, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-123903890,"$518,000",05 Dec 2016,house
+"995 Rode Road, McDowall", 1, 3, 4,/sold/property-house-qld-mcdowall-123626214,"$500,000",05 Dec 2016,house
+"22 Van Dyke Crescent, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-123570898,"$715,000",29 Nov 2016,house
+"18 Nicholas Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-123770838,"$670,000",29 Nov 2016,house
+"11 Ifield Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-123930222,"$520,000",29 Nov 2016,house
+"13/28 Keona Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-123828082,"$405,000",29 Nov 2016,townhouse
+"7 Marx Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123808126,"$610,000",28 Nov 2016,house
+"48  Keona Road, McDowall", 3, 4, 5,/sold/property-house-qld-mcdowall-122812466,"$875,000",22 Nov 2016,house
+"2/95 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-123270102,"$365,000",21 Nov 2016,unit
+"4/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-123145662,"$354,000",19 Nov 2016,unit
+"Address available on request, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-123327426,"$775,000",18 Nov 2016,house
+"12 Hoskins Close, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-123170426,"$669,000",18 Nov 2016,house
+"Lot 10/73 Landis Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201388030,"$375,000",14 Nov 2016,residential land
+"25 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123807702,"$655,000",07 Nov 2016,house
+"2 Leanne Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123596934,"$658,000",04 Nov 2016,house
+"20 Wyngarde Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123362626,"$560,000",03 Nov 2016,house
+"12 Evergreen Place, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-123345534,"$925,000",31 Oct 2016,house
+"1 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123427470,"$615,000",31 Oct 2016,house
+"8 Marx Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123629530,"$620,000",27 Oct 2016,house
+"11 Walpole St, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-123196690,"$585,000",27 Oct 2016,house
+"3 Eastwood Place, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-123524530,"$645,000",24 Oct 2016,house
+"3 Sarandon Close, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-123569922,"$660,000",22 Oct 2016,house
+"7 Sharif Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-123006546,"$675,000",21 Oct 2016,house
+"12/195 Old Northern Rd, McDowall", 1, 3, 1,/sold/property-villa-qld-mcdowall-123239586,"$344,000",20 Oct 2016,villa
+"2 Wyngarde St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123468506,"$487,000",17 Oct 2016,house
+"2 Ekland Court, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123685574,"$629,000",14 Oct 2016,house
+"7 Blake Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123644162,"$710,000",13 Oct 2016,house
+"4 Paramount Circuit, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-123360806,"$722,000",11 Oct 2016,house
+"17 Paramount Circuit, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-123074610,"$545,000",10 Oct 2016,house
+"17/28 Keona Road, McDowall", 2, 3, 2,/sold/property-townhouse-qld-mcdowall-123213286,"$406,000",10 Oct 2016,townhouse
+"12 Stallone Cct, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-123561854,"$678,500",05 Oct 2016,house
+"13/960 Hamilton Road, McDowall", 2, 3, 2,/sold/property-villa-qld-mcdowall-123474854,"$412,000",05 Oct 2016,villa
+"21 Gleason Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-123301550,"$630,000",29 Sep 2016,house
+"242 Trouts Road, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123053398,"$715,000",19 Sep 2016,house
+"17 Matthau Place, McDowall", 3, 5, 4,/sold/property-house-qld-mcdowall-123274654,"$880,000",16 Sep 2016,house
+"7 Sabu Court, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-123132162,"$535,000",14 Sep 2016,house
+"10 Blake Cl, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-123290174,"$687,938",13 Sep 2016,house
+"73 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-123306418,"$550,000",07 Sep 2016,house
+"71 Landis Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201578878,"$415,000",07 Sep 2016,residential land
+"21 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123424990,"$660,000",06 Sep 2016,house
+"5 Walpole Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-122809222,"$558,000",29 Aug 2016,house
+"3 Nelson Court, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-122731822,"$765,000",25 Aug 2016,house
+"27 Beckett Road, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-123080818,"$450,000",24 Aug 2016,house
+"23A Eastwood Place, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-122584282,"$500,000",22 Aug 2016,house
+"984 Rode Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-123081554,"$525,000",12 Aug 2016,house
+"19/216 Trouts Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-122834078,"$400,000",12 Aug 2016,townhouse
+"1073 Rode Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-122702022,"$470,000",09 Aug 2016,house
+"1/216 Trouts Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-122831722,"$404,000",08 Aug 2016,townhouse
+"73A Landis Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201553458,"$365,000",05 Aug 2016,residential land
+"3/95 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-118797059,"$354,500",01 Aug 2016,unit
+"24 Brynner Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-122727654,"$509,000",29 Jul 2016,house
+"Lot 13/73 Landis Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201388010,"$410,000",27 Jul 2016,residential land
+"2 Crowe Close, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-122171074,"$775,000",25 Jul 2016,house
+"1 Chico Place, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-122660118,"$590,000",08 Jul 2016,house
+"Lot 9/ 73 Landis Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201387974,"$380,000",30 Jun 2016,residential land
+"1065 Rode Road, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-122576662,"$542,500",27 Jun 2016,house
+"32 Speilberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-122620566,"$625,000",15 Jun 2016,house
+"19 Pilbeam Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-122244154,"$480,000",13 Jun 2016,house
+"42 Monroe Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-122327954,"$640,000",10 Jun 2016,house
+"15 Dunaway Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-122687950,"$546,000",03 Jun 2016,house
+"112 Streisand Drive, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-122184942,"$570,000",02 Jun 2016,house
+"18 Goodman Close, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-120963858,"$640,000",27 May 2016,house
+"40 Streisand Drive, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-122480622,"$700,000",23 May 2016,house
+"15/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-122250022,"$374,000",10 May 2016,townhouse
+"2 Hoffman Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-122226354,"$567,500",03 May 2016,house
+"71 Van Dyke Cres, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-122037030,"$576,000",13 Apr 2016,house
+"4 Landon Close, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-121981302,"$870,580",08 Apr 2016,house
+"29 Boulting Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-121995794,"$615,000",04 Apr 2016,house
+"27 Matthau Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-121813618,"$744,076",22 Mar 2016,house
+"23 Lazenby Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-121517030,"$465,000",18 Mar 2016,house
+"36 Ustinov Crescent, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-121622514,"$655,000",07 Mar 2016,house
+"15 Ford Cl, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-121931186,"$758,000",04 Mar 2016,house
+"11 Sinatra Crescent, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-121434946,"$500,000",04 Mar 2016,house
+"2 Kline Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121506154,"$740,000",01 Mar 2016,house
+"14 Wyngarde Street, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-121496062,"$556,000",17 Feb 2016,house
+"72 Beckett Road, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-121734254,"$475,600",16 Feb 2016,house
+"35 Redford Crescent, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-121421970,"$712,000",08 Feb 2016,house
+"25 Cilento St, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-121511098,"$580,000",28 Jan 2016,house
+"8 Crowe Close, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-121365018,"$748,000",25 Jan 2016,house
+"18 Borgnine St, McDowall", 3, 5, 4,/sold/property-house-qld-mcdowall-121618722,"$740,000",25 Jan 2016,house
+"19 Andress Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120932421,"$730,000",25 Jan 2016,house
+"2 Poitier Street (16 Peppard St ), McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-121206834,"$646,400",15 Jan 2016,house
+"6 Sabu Court, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121357162,"$580,000",15 Jan 2016,house
+"22 Gielgud Crescent, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-121394270,"$640,000",12 Jan 2016,house
+"112 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121250346,"$750,000",08 Jan 2016,house
+"53 Gleason Street, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-121467506,"$645,000",22 Dec 2015,house
+"78 De Mille Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-121245562,"$590,000",21 Dec 2015,house
+"25 Beckett Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-121169374,"$475,000",18 Dec 2015,house
+"24 Bisset Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121455798,"$649,000",16 Dec 2015,house
+"10 Brynner Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-120903037,"$552,000",09 Dec 2015,house
+"6 Voigt Street, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-120393417,"$634,000",30 Nov 2015,house
+"10 Sellers Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-121033066,"$742,500",23 Nov 2015,house
+"19 Redford Crescent, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120171453,"$737,500",23 Nov 2015,house
+"24 Gleason Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-119860849,"$560,000",13 Nov 2015,house
+"36 Kline Pl, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120899685,"$745,000",11 Nov 2015,house
+"15 Bardot Street, McDowall", 2, 3, 4,/sold/property-house-qld-mcdowall-121027930,"$512,000",10 Nov 2015,house
+"12 Pilbeam Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120757829,"$685,000",06 Nov 2015,house
+"244 Trouts Rd, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-121040378,"$525,000",06 Nov 2015,house
+"5 Goldwyn Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120744425,"$680,000",12 Oct 2015,house
+"18 Ustinov Crescent, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120628241,"$655,500",07 Oct 2015,house
+"8 Bening Pl, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120871533,"$770,000",03 Oct 2015,house
+"35 De Mille Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-120685009,"$478,000",02 Oct 2015,house
+"130 Streisand Drive, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120318629,"$629,000",30 Sep 2015,house
+"15/28 Keona Road, McDowall", 2, 3, 1,/sold/property-villa-qld-mcdowall-120414141,"$410,000",30 Sep 2015,villa
+"21 Peppard Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-120114281,"$550,000",29 Sep 2015,house
+"26 Minnelli Place, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-120473473,"$495,000",28 Sep 2015,house
+"12 Andress St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-119568091,"$570,000",19 Sep 2015,house
+"74 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120599881,"$625,000",15 Sep 2015,house
+"25/216 Trouts Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-119780835,"$410,000",14 Sep 2015,townhouse
+"13 Culkin Pl, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120686413,"$624,000",12 Sep 2015,house
+"31 Sunset Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120417281,"$563,000",11 Sep 2015,house
+"78 Raven Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-120391713,"$660,000",10 Sep 2015,house
+"85 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120168557,"$618,000",09 Sep 2015,house
+"20 Hoffman Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-119656787,"$485,000",31 Aug 2015,house
+"82 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-120407989,"$485,000",25 Aug 2015,house
+"4 Huston Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120404021,"$795,000",12 Aug 2015,house
+"25 Ustinov Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120162649,"$572,000",06 Aug 2015,house
+"19/95 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-118563671,"$354,000",05 Aug 2015,apartment
+"14 Hackman Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120055229,"$620,000",04 Aug 2015,house
+"24 Wyngarde St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-120235933,"$570,000",04 Aug 2015,house
+"1 Belafonte Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119399343,"$598,000",31 Jul 2015,house
+"7 De Vito Place, McDowall", 3, 6, 2,/sold/property-house-qld-mcdowall-119764671,"$733,000",30 Jul 2015,house
+"7 Walpole Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-119922473,"$665,000",29 Jul 2015,house
+"11 Osmond Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-119370551,"$495,000",25 Jul 2015,house
+"16 Cosby Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120120509,"$683,000",24 Jul 2015,house
+"16 Hoffman Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-120115885,"$510,000",24 Jul 2015,house
+"28 Nicholas Street, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-119895609,"$670,000",20 Jul 2015,house
+"89 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119760579,"$618,000",17 Jul 2015,house
+"7 Lazenby Street, McDowall", 4, 6, 4,/sold/property-house-qld-mcdowall-119447691,"$800,000",14 Jul 2015,house
+"24 Van Dyke Cres, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-119983421,"$660,000",01 Jul 2015,house
+"72 Beckett Rd, McDowall", 1, 3, 4,/sold/property-house-qld-mcdowall-119877277,"$455,000",22 Jun 2015,house
+"25 Bening Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-119485123,"$732,000",19 Jun 2015,house
+"9 Bixby Court, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119642231,"$597,500",12 Jun 2015,house
+"39 Beckett Road, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-119794227,"$500,000",12 Jun 2015,house
+"9/195 Old Northern Road, McDowall", 1, 3, 1,/sold/property-townhouse-qld-mcdowall-119814999,"$360,256",11 Jun 2015,townhouse
+"21 Lazenby Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119430083,"$602,500",09 Jun 2015,house
+"6 Blake Close, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-119536831,"$805,000",25 May 2015,house
+"Address available on request, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-119203503,"$652,500",13 May 2015,house
+"25 Nicholas Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-119667691,"$620,000",12 May 2015,house
+"44 Streisand Dr, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119675735,"$660,000",02 May 2015,house
+"23/28 Keona Road, McDowall", 2, 3, 2,/sold/property-townhouse-qld-mcdowall-119282035,"$420,000",01 May 2015,townhouse
+"12 Bening Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-119518759,"$629,000",27 Apr 2015,house
+"4 Goldwyn Street, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-119171155,"$589,000",22 Apr 2015,house
+"34 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119212267,"$580,000",20 Apr 2015,house
+"18 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-119107803,"$555,000",20 Apr 2015,house
+"26 Redford Cres, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-118904855,"$790,000",07 Apr 2015,house
+"7 Boulting Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-114695843,"$665,000",07 Apr 2015,house
+"19 Calhoun Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-119118971,"$850,000",01 Apr 2015,house
+"321 Trouts Road, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-119030935,"$555,000",31 Mar 2015,house
+"8 Wyngarde Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-118539995,"$575,000",30 Mar 2015,house
+"812 Hamilton Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-118536227,"$493,000",30 Mar 2015,house
+"23 Sellers Place, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-119063415,"$825,000",19 Mar 2015,house
+"28 Hackman St, McDowall", 3, 5, 4,/sold/property-house-qld-mcdowall-118879171,"$879,000",16 Mar 2015,house
+"2 Brando Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118785787,"$616,000",10 Mar 2015,house
+"22 Ustinov Crescent, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-118499791,"$545,000",09 Mar 2015,house
+"8 Streep Place, McDowall", 1, 2, 1,/sold/property-house-qld-mcdowall-118865295,"$475,000",09 Mar 2015,house
+"23/195 Old Northern Road,, McDowall", 1, 2, 1,/sold/property-townhouse-qld-mcdowall-118237887,"$1,000,000",06 Mar 2015,townhouse
+"14/28 Keona Road, McDowall", 2, 3, 2,/sold/property-townhouse-qld-mcdowall-118570123,"$405,000",03 Mar 2015,townhouse
+"4 Marx St, McDowall", 2, 3, 0,/sold/property-house-qld-mcdowall-118542139,"$495,000",25 Feb 2015,house
+"78 Streisand Drive, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-118806347,"$560,000",19 Feb 2015,house
+"25 Tranquil Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118626715,"$662,000",17 Feb 2015,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118807227,"$563,000",17 Feb 2015,house
+"14 Harlow Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-118776523,"$932,500",16 Feb 2015,house
+"17 Stallone Cct, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118229647,"$577,000",16 Feb 2015,house
+"2 Goldwyn Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-118884199,"$565,000",16 Feb 2015,house
+"3 Rigg Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-118912183,"$635,000",05 Feb 2015,house
+"12 Seberg St, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-118571075,"$583,801",30 Jan 2015,house
+"19 Walpole Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-118298647,"$510,000",30 Jan 2015,house
+"18 Karen Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-118115315,"$410,000",30 Jan 2015,house
+"101 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118199283,"$550,000",23 Jan 2015,house
+"3 Matthau Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118497799,"$700,000",22 Jan 2015,house
+"30 Lisa Street, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-117980791,"$406,000",22 Jan 2015,townhouse
+"7 Janssen Street, McDowall", 2, 5, 0,/sold/property-house-qld-mcdowall-117268911,"$625,000",12 Jan 2015,house
+"3 Ponti Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-118171467,"$547,500",06 Jan 2015,house
+"7 Ifield Street, McDowall", 1, 4, 2,/sold/property-house-qld-mcdowall-118111815,"$560,000",05 Jan 2015,house
+"100 De Mille Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118257959,"$550,000",05 Jan 2015,house
+"7/216 Trouts Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-121201290,"$380,000",04 Jan 2015,townhouse
+"30  Harlow Pl, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118266947,"$620,000",23 Dec 2014,house
+"41 Beckett Road, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-117608191,"$405,000",23 Dec 2014,house
+"45 De Mille Street, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-118425491,"$620,000",12 Dec 2014,house
+"57 Hackman Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-118335587,"$671,000",08 Dec 2014,house
+"12 Metro Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118500751,"$615,000",05 Dec 2014,house
+"28 Gielgud Av, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118246195,"$475,000",04 Dec 2014,house
+"6 Hughes Street, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-118484831,"$685,000",03 Dec 2014,house
+"6 Newley Street, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-118003987,"$620,000",03 Dec 2014,house
+"10 Sabu Court, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117666915,"$556,000",26 Nov 2014,house
+"27 Cosby Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118057483,"$622,000",13 Nov 2014,house
+"6 Sellers Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111767355,"$645,000",10 Nov 2014,house
+"14 Ponti Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117931427,"$530,000",10 Nov 2014,house
+"6 Sellers Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-117924519,"$645,000",07 Nov 2014,house
+"12 Connery Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117518631,"$600,000",28 Oct 2014,house
+"21 Bening Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116832055,"$786,000",22 Oct 2014,house
+"5 Camphor Laurel Court, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-117786799,"$580,000",10 Oct 2014,house
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-117437271,"$485,000",03 Oct 2014,house
+"12 Carides Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-117225331,"$712,500",24 Sep 2014,house
+"1 Camphor Laurel Court, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200899519,"$410,000",15 Sep 2014,residential land
+"24/28 Keona Road, McDowall", 2, 3, 2,/sold/property-townhouse-qld-mcdowall-117708055,"$412,500",11 Sep 2014,townhouse
+"1 Savalas St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-117001803,"$455,000",20 Aug 2014,house
+"55 Keona Road, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200929295,"$625,000",12 Aug 2014,residential land
+"156 Streisand Drive, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-117523127,"$910,000",08 Aug 2014,house
+"22 Peppard Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117308595,"$525,000",01 Aug 2014,house
+"3 Lazenby Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200402131,"$580,000",29 Jul 2014,residential land
+"17 Culkin Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117254747,"$725,000",28 Jul 2014,house
+"2 Sellers Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-117386443,"$720,000",26 Jul 2014,house
+"15 Landis Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-117311627,"$705,000",15 Jul 2014,house
+"997 Hamilton Road, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116717899,"$465,000",14 Jul 2014,house
+"37 Streisand Drive, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-117042755,"$583,000",09 Jul 2014,house
+"24/960 Hamilton Rd, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-114377759,"$365,000",03 Jul 2014,townhouse
+"22/195 Old Northern Road, McDowall", 1, 3, 1,/sold/property-townhouse-qld-mcdowall-115911519,"$355,000",20 Jun 2014,townhouse
+"z12 Ponti Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-116609683,"$592,500",09 May 2014,house
+"40 Beckett Rd, McDowall", 1, 4, 2,/sold/property-house-qld-mcdowall-116498263,"$455,000",05 May 2014,house
+"20/149 Keona Road, McDowall", 2, 3, 1,/sold/property-unit-qld-mcdowall-116665351,"$405,000",05 May 2014,unit
+"2/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-116712743,"$385,000",05 May 2014,townhouse
+"29 Eastwood Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116494799,"$495,000",29 Apr 2014,house
+"11 Mayer Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-116436743,"$1,360,000",17 Apr 2014,house
+"40 Sinatra Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116530579,"$578,500",16 Apr 2014,house
+"29/95 Beckett Rd, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-116352619,"$369,000",15 Apr 2014,unit
+"3 Chevalier Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-116003023,"$550,000",14 Apr 2014,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116027015,"$540,000",14 Apr 2014,house
+"13 Gielgud Cr, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-115009315,"$700,000",08 Apr 2014,house
+"387 Trouts Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-116408979,"$495,000",07 Apr 2014,house
+"2 Brynner Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-116435291,"$410,000",26 Mar 2014,house
+"6 Poitier Street, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-115809287,"$660,000",24 Mar 2014,house
+"37 Lisa Street, McDowall", 2, 3, 2,/sold/property-townhouse-qld-mcdowall-116077091,"$405,000",17 Mar 2014,townhouse
+"26 De Vito Pl, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115894051,"$585,000",15 Mar 2014,house
+"21 Sunset Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-116209895,"$570,000",13 Mar 2014,house
+"28 Savalas Street, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-116089915,"$725,000",05 Mar 2014,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115733387,"$482,000",28 Feb 2014,house
+"62 Raven Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-115891771,"$485,000",20 Feb 2014,house
+"17 Harlow Place, McDowall", 4, 5, 2,/sold/property-house-qld-mcdowall-115345071,"$1,040,000",07 Feb 2014,house
+"92 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115804091,"$615,000",07 Feb 2014,house
+"13 Jagger Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-115451035,"$436,000",07 Feb 2014,house
+"1 Rigg Place, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-115787091,"$543,000",30 Jan 2014,house
+"77 Landis Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115753543,"$630,000",28 Jan 2014,house
+"13 Streep Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115838015,"$660,000",24 Jan 2014,house
+"19 Evergreen Place, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-115739727,"$925,000",20 Jan 2014,house
+"9 Marx Street, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-115564067,"$555,000",17 Jan 2014,house
+"34 Raven Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-115717751,"$580,000",14 Jan 2014,house
+"973  Rode Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-115337635,"$445,000",10 Jan 2014,house
+"6 Seinfeld Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115260791,"$620,000",09 Jan 2014,house
+"32 Redford Crescent, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-115751727,"$640,000",07 Jan 2014,house
+"10 Gleason Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-115497199,"$470,000",20 Dec 2013,house
+"170 Streisand Dr, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115357787,"$588,000",13 Dec 2013,house
+"878 Rode Rd, McDowall", 2, 2, 2,/sold/property-house-qld-mcdowall-115115575,"$395,000",26 Nov 2013,house
+"21 Beckett Road, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-114026099,"$401,000",30 Oct 2013,house
+"6 Monroe Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114444467,"$625,000",29 Oct 2013,house
+"27 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114949931,"$639,000",22 Oct 2013,house
+"17 Beckett Rd, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-114107095,"$353,000",16 Oct 2013,house
+"20 Hanks Pl, McDowall", 3, 5, 4,/sold/property-house-qld-mcdowall-114416351,"$754,000",14 Oct 2013,house
+"34/95 Beckett Road, McDowall", 2, 2, 2,/sold/property-apartment-qld-mcdowall-112884447,"$390,000",14 Oct 2013,apartment
+"22 Chevalier Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-114610787,"$560,000",08 Oct 2013,house
+"26 Cosby Place, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-114386019,"$585,000",04 Oct 2013,house
+"858 Rode Road, McDowall", 1, 4, 2,/sold/property-house-qld-mcdowall-113963939,"$445,000",04 Oct 2013,house
+"27 Sunset Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114450363,"$515,000",02 Oct 2013,house
+"4/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-114400899,"$370,000",23 Sep 2013,townhouse
+"32 Savalas st, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-114419827,"$725,000",06 Sep 2013,house
+"965 Rode Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-114296775,"$475,000",16 Aug 2013,house
+"4/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-114405703,"$380,000",13 Aug 2013,unit
+"2 Sabu Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-113183299,"$495,000",08 Aug 2013,house
+"14/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-114398215,"$410,000",08 Aug 2013,unit
+"42 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113239747,"$523,500",07 Aug 2013,house
+"19/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-114406815,"$415,000",06 Aug 2013,unit
+"17 Bassey Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-114070971,"$575,000",29 Jul 2013,house
+"45 Paramount Circuit, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-113789459,"$470,000",26 Jul 2013,house
+"5/960 Hamilton Rd, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-113569867,"$384,000",19 Jul 2013,townhouse
+"5 Chico Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113788759,"$580,000",15 Jul 2013,house
+"17  Kline Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113173831,"$575,000",15 Jul 2013,house
+"17 Kline Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113838719,"$575,000",15 Jul 2013,house
+"66 Beckett Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-114032483,"$397,000",03 Jul 2013,house
+"16 Paramount Circuit, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-113657019,"$580,000",02 Jul 2013,house
+"29/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170867,"$375,000",27 Jun 2013,apartment
+"36/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114178247,"$375,000",27 Jun 2013,apartment
+"12/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170863,"$375,000",27 Jun 2013,apartment
+"22/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114178251,"$375,000",27 Jun 2013,apartment
+"9/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-114170843,"$375,000",27 Jun 2013,unit
+"13/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170847,"$375,000",27 Jun 2013,apartment
+"16/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170887,"$375,000",27 Jun 2013,apartment
+"21/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170883,"$375,000",27 Jun 2013,apartment
+"24/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-house-qld-mcdowall-114170855,"$375,000",27 Jun 2013,house
+"18/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170859,"$375,000",27 Jun 2013,apartment
+"15/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114171135,"$375,000",27 Jun 2013,apartment
+"35/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-114170851,"$375,000",27 Jun 2013,apartment
+"12 Metro Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113681175,"$580,000",18 Jun 2013,house
+"29 Stallone Circuit, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-113772279,"$555,000",14 Jun 2013,house
+"20 Ponti Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-113558587,"$635,000",12 Jun 2013,house
+"21 Harlow Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113852447,"$611,000",24 May 2013,house
+"11/28  Keona Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-113663183,"$438,000",24 May 2013,townhouse
+"69 Van Dyke Crescent, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-113690971,"$608,500",17 May 2013,house
+"45 Bening Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-113810455,"$595,000",14 May 2013,house
+"28 Boulting Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-113465879,"$615,000",13 May 2013,house
+"8 Seberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113484291,"$550,000",13 May 2013,house
+"51 Gleason Street, McDowall", 2, 3, 4,/sold/property-house-qld-mcdowall-113544699,"$550,000",24 Apr 2013,house
+"79 Landis Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-113108503,"$462,000",15 Apr 2013,house
+"10 Bening Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-112696035,"$625,000",10 Apr 2013,house
+"5  Pilbeam Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-112658111,"$530,000",04 Apr 2013,house
+"7 Seberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113086087,"$509,000",28 Mar 2013,house
+"141 Streisand Drive, McDowall", 4, 5, 3,/sold/property-house-qld-mcdowall-112623087,"$770,000",25 Mar 2013,house
+"6/28 Keona Road, McDowall", 2, 3, 1,/sold/property-villa-qld-mcdowall-112942243,"$400,000",28 Feb 2013,villa
+"3 Redford Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-112455611,"$590,000",22 Feb 2013,house
+"11 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-112820959,"$605,000",13 Feb 2013,house
+"14 Newley St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-112817827,"$555,000",13 Feb 2013,house
+"64 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111613855,"$530,000",07 Jan 2013,house
+"19 Cosby Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-112287771,"$578,000",31 Dec 2012,house
+"3 Pilbeam Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-112126055,"$495,000",31 Dec 2012,house
+"3 Pilbeam Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115635275,"$495,000",31 Dec 2012,house
+"8 Hughes Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200415135,"$340,000",18 Dec 2012,residential land
+"52 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111973991,"$600,000",12 Dec 2012,house
+"15 Pilbeam Place, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-109265621,"$463,000",07 Dec 2012,house
+"24 Pfeiffer Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-110270053,"$510,000",28 Nov 2012,house
+"9 Stallone Cct, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111787219,"$550,000",26 Nov 2012,house
+"7 Macgraw Street, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-111283843,"$540,000",09 Nov 2012,house
+"116 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111731943,"$552,500",05 Nov 2012,house
+"34 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111178243,"$499,000",02 Nov 2012,house
+"12 Kingfisher Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111360895,"$765,000",01 Nov 2012,house
+"5 Minnelli Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-111112931,"$520,000",03 Oct 2012,house
+"28 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111240303,"$642,000",02 Oct 2012,house
+"6 Wyngarde Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-111418579,"$390,000",20 Sep 2012,house
+"20 BECKETT ROAD, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-111151851,"$340,000",10 Sep 2012,house
+"11 Poitier Street, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-111159539,"$500,000",30 Aug 2012,house
+"10 Streep Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-111322143,"$640,000",27 Aug 2012,house
+"6 Bassey Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-110807267,"$515,000",17 Aug 2012,house
+"78 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-110839555,"$585,000",03 Aug 2012,house
+"13 Matthau Place, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-110390881,"$665,000",02 Aug 2012,house
+"5 Woods Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-110217941,"$520,000",17 Jul 2012,house
+"28 Bardot Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-110327085,"$455,000",09 Jul 2012,house
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-110558733,"$425,000",28 Jun 2012,house
+"367 Trouts Road, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-110207421,"$433,000",14 Jun 2012,house
+"39 Beckett Road, McDowall", 1, 3, 3,/sold/property-house-qld-mcdowall-110519501,"$470,000",13 Jun 2012,house
+"4 Zeppo Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-110095601,"$506,000",08 May 2012,house
+"68 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-109566731,"$585,000",04 May 2012,house
+"12 Brando Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-109415806,"$455,000",24 Apr 2012,house
+"315 Old Northern Road, McDowall", 3, 6, 8,/sold/property-house-qld-mcdowall-108978011,"$759,000",23 Apr 2012,house
+"31 Harlow Place, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-110095953,"$840,000",20 Apr 2012,house
+"24 Sellers Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-110146565,"$790,000",07 Apr 2012,house
+"4 Keaton Street, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-109747291,"$539,000",04 Apr 2012,house
+"5 Sharif Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-109072066,"$495,000",04 Apr 2012,house
+"4 Blake Close, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-108706391,"$430,000",19 Mar 2012,house
+"21 Matthau Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-109958786,"$785,000",12 Mar 2012,house
+"57 Hackman Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-109512936,"$545,000",02 Mar 2012,house
+"70 Streisand Drive, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-109392456,"$635,000",22 Feb 2012,house
+"26/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-108646331,"$350,000",20 Feb 2012,townhouse
+"6 Palance Court, McDowall", 3, 7, 3,/sold/property-house-qld-mcdowall-108481166,"$650,000",27 Jan 2012,house
+"17 Minnelli Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-108277161,"$700,000",25 Jan 2012,house
+"7 Dunaway Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-108006636,"$445,000",25 Jan 2012,house
+"12/28 Keona Road, McDowall", 2, 3, 2,/sold/property-townhouse-qld-mcdowall-108917596,"$400,000",16 Jan 2012,townhouse
+"25/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-106899871,"$340,000",16 Jan 2012,townhouse
+"15 Dunaway Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-109028391,"$435,500",09 Jan 2012,house
+"7 Matthau Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-108060151,"$657,000",03 Jan 2012,house
+"Address available on request, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-108267196,"$345,000",19 Dec 2011,townhouse
+"4 Astaire Place, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-108458131,"$403,000",05 Dec 2011,house
+"17 Ifield Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-107536981,"$460,000",02 Dec 2011,house
+"Address available on request, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-107377969,"$525,000",21 Oct 2011,house
+"10 Poitier Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107521932,"$520,000",21 Oct 2011,house
+"40z Sinatra Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107444996,"$500,000",21 Oct 2011,house
+"Address available on request, McDowall", 1, 2, 1,/sold/property-townhouse-qld-mcdowall-107356538,"$320,000",21 Oct 2011,townhouse
+"28 Lisa Street, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-106332942,"$443,000",14 Oct 2011,townhouse
+"960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-107562029,"$335,000",07 Oct 2011,townhouse
+"3 Streep Place, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-107557724,"$702,000",29 Aug 2011,house
+"53 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-107557927,"$430,000",25 Aug 2011,house
+"15/960 Hamilton Rd, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-107557960,"$355,000",24 Aug 2011,townhouse
+"134 Streisand Drive, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-107507621,"$617,500",22 Aug 2011,house
+"14 Chevalier Street, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-107573462,"$550,000",17 Aug 2011,house
+"48 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107424801,"$750,000",15 Aug 2011,house
+"3 Crowe Close, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-106488382,"$830,000",10 Aug 2011,house
+"7 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107450965,"$602,000",02 Aug 2011,house
+"5 Ladd Close, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-107399060,"$600,000",22 Jul 2011,house
+"20 Voigt Street, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-107499297,"$565,000",18 Jul 2011,house
+"Address available on request, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-107508948,"$452,000",14 Jul 2011,house
+"3 Midler Place, McDowall", 3, 6, 2,/sold/property-house-qld-mcdowall-107466946,"$725,000",08 Jul 2011,house
+"30 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107224110,"$570,000",07 Jul 2011,house
+"991 Hamilton Road, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107376118,"$550,000",06 Jul 2011,house
+"72 Stallone Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107050602,"$580,000",30 Jun 2011,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107432188,"$535,000",29 Jun 2011,house
+"23 Sunset Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107332782,"$480,000",31 May 2011,house
+"6 Sharif Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107346952,"$470,000",30 May 2011,house
+"Address available on request, McDowall", 2, 3, 3,/sold/property-townhouse-qld-mcdowall-107290042,"$385,000",26 May 2011,townhouse
+"51 Keona Road, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-106955641,"$1,800,000",25 May 2011,house
+"Address available on request, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-107161121,"$455,500",27 Apr 2011,house
+"4/195 Old Northern Road, McDowall", 1, 2, 1,/sold/property-townhouse-qld-mcdowall-107251332,"$352,000",13 Apr 2011,townhouse
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-107085024,"$480,000",01 Apr 2011,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106913281,"$610,000",10 Mar 2011,house
+"Address available on request, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-106952532,"$750,000",21 Feb 2011,house
+"Address available on request, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-106999858,"$795,000",18 Feb 2011,house
+"4 Mayer St, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-107017363,"$580,000",09 Feb 2011,house
+"5 Seinfeld Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107037962,"$560,000",31 Jan 2011,house
+"11 Bisset Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107087815,"$593,500",27 Jan 2011,house
+"21 Sunset Place, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-106770294,"$494,000",22 Dec 2010,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107025094,"$509,000",21 Dec 2010,house
+"38 Gielgud Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106854642,"$654,000",12 Nov 2010,house
+"5 Pfeiffer Place, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-106898638,"$649,000",05 Nov 2010,house
+"Address available on request, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-106729212,"$590,000",04 Nov 2010,house
+"36 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106773284,"$482,000",22 Oct 2010,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106873403,"$592,000",14 Oct 2010,house
+"21 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106852227,"$660,000",05 Oct 2010,house
+"30 Redford Crescent, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-106832289,"$665,000",29 Sep 2010,house
+"7 Nelson Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106690847,"$735,000",31 Aug 2010,house
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-115634515,"$440,000",14 Aug 2010,house
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-106648289,"$440,000",14 Aug 2010,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106540907,"$510,000",12 Jul 2010,house
+"25 Redford Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106573347,"$655,000",01 Jul 2010,house
+"76 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106570154,"$627,000",11 Jun 2010,house
+"7 Macnee Street, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-106398172,"$580,000",07 Apr 2010,house
+"8 WANAKA PLACE, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106399194,"$648,500",03 Apr 2010,house
+"816 Hamilton Road, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-106350080,"$390,000",27 Mar 2010,house
+"991 Hamilton Road, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106350812,"$580,000",24 Mar 2010,house
+"4 Selleck Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106269517,"$540,000",02 Mar 2010,house
+"Address available on request, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-106165273,"$455,000",26 Feb 2010,house
+"15 Lyell Crescent, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-106103310,"$865,000",24 Feb 2010,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106250416,"$615,000",15 Feb 2010,house
+"7 Keona Road, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-106139811,"$693,000",20 Jan 2010,house
+"170 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106245227,"$596,200",16 Jan 2010,house
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-106062821,"$385,000",03 Dec 2009,house
+"130 Keona Road, McDowall",,,,/sold/property-residential+land-qld-mcdowall-2700215,"$1,225,000",23 Nov 2009,residential land
+"101 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105927445,"$522,500",29 Oct 2009,house
+"379 Trouts Road, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-105826241,"$375,000",13 Oct 2009,house
+"12 Stallone Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105898675,"$553,000",25 Sep 2009,house
+"14 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105948859,"$590,000",08 Sep 2009,house
+"Address available on request, McDowall", 1, 2, 1,/sold/property-townhouse-qld-mcdowall-105822103,"$357,000",24 Aug 2009,townhouse
+"Address available on request, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-105891953,"$598,000",17 Aug 2009,house
+"21 Harlow Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105809668,"$545,000",20 Jun 2009,house
+"43 Streisand Drive, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-105468137,"$555,000",27 May 2009,house
+"3 Carides Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105708931,"$580,000",28 Apr 2009,house
+"20 Ponti Street, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-105629317,"$592,000",21 Apr 2009,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105575974,"$630,000",17 Apr 2009,house
+"15/960 Hamilton Rd, McDowall", 3, 3, 1,/sold/property-house-qld-mcdowall-105535115,"$355,000",05 Mar 2009,house
+"15/960 Hamilton Rd, McDowall", 3, 3, 1,/sold/property-house-qld-mcdowall-117168279,"$355,000",05 Mar 2009,house
+"Address available on request, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-105470408,"$342,000",27 Feb 2009,townhouse
+"23 Harlow Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105425027,"$550,000",07 Feb 2009,house
+"27 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105406002,"$490,000",06 Feb 2009,house
+"10 Pfeiffer Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105316025,"$530,000",29 Jan 2009,house
+"79 Landis Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-105473894,"$443,000",29 Jan 2009,house
+"9 Gielgud Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105470814,"$565,000",27 Jan 2009,house
+"Address available on request, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-105398273,"$383,570",07 Jan 2009,townhouse
+"40 Sinatra Crescent, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-105297831,"$482,000",16 Dec 2008,house
+"36 Savalas Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-105146995,"$540,000",10 Nov 2008,house
+"3 Sabu Court, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-105060367,"$540,000",02 Sep 2008,house
+"321 Trouts Rd, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-105019181,"$437,500",01 Sep 2008,house
+"9 Boulting Street, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-104923143,"$590,000",24 Aug 2008,house
+"25/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-104790243,"$331,000",02 Jun 2008,townhouse
+"Address available on request, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-104837383,"$338,000",19 May 2008,townhouse
+"2 Landis Street, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-124393090,"Range: $550,000 - $645,000",13 Apr 2017,house
+"58 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-124502602,Contact agent,31 Mar 2017,house
+"904 Hamilton Road, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201476450,Contact agent,08 Mar 2017,residential land
+"21 Ifield Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-124507026,Contact agent,10 Feb 2017,house
+"15 Sabu Crt, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-124249946,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDcyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,07 Feb 2017,house
+"2/195 Old Northern Road, McDowall", 1, 2, 1,/sold/property-townhouse-qld-mcdowall-120599821,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDMzNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Jan 2017,townhouse
+"Address available on request, McDowall",,,,/sold/property-residential+land-qld-mcdowall-201650350,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,12 Dec 2016,residential land
+"818 Hamilton Road, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-124069482,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,02 Dec 2016,house
+"17 Ustinov Cres, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123469898,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,12 Oct 2016,house
+"Address available on request, McDowall", 3, 3, 10,/sold/property-house-qld-mcdowall-119960561,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDIsNzUwLDAwMA==?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,19 Sep 2016,house
+"8 Camphorlaurel Court, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-123298826,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDkzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,31 Aug 2016,house
+"27 Paramount Circuit, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-123221954,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDcyNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Aug 2016,house
+"23 Savalas Street, McDowall", 3, 4, 6,/sold/property-house-qld-mcdowall-117144231,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDEsNDUwLDAwMA==?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,15 Jul 2016,house
+"69 Streisand Drive, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-123027298,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDcyMSw1OTk=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,01 Jul 2016,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121719990,Contact agent,30 Jun 2016,house
+"47 Streisand Drive, McDowall", 2, 4, 4,/sold/property-house-qld-mcdowall-122399946,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY5OSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,28 Jun 2016,house
+"10 Voigt Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-122522422,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,26 May 2016,house
+"2/91 Beckett Road, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-122517958,Contact agent,26 May 2016,apartment
+"972 Rode Road, McDowall", 3, 5, 5,/sold/property-house-qld-mcdowall-122513022,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDEsMzAwLDAwMA==?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,20 May 2016,house
+"84 DeMille Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-122534814,Contact agent,17 May 2016,house
+"8 Goldwyn Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121996866,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 May 2016,house
+"68 Sinatra Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-122298822,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,09 May 2016,house
+"147 Streisand Drive, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-122134746,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDg5MywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,22 Apr 2016,house
+"26/28 Keona road, McDowall", 3, 3, 2,/sold/property-townhouse-qld-mcdowall-121487738,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQzMiw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,07 Apr 2016,townhouse
+"995 Hamilton Road, McDowall", 2, 2, 2,/sold/property-house-qld-mcdowall-121303486,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 Mar 2016,house
+"5 Pleshette Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121163490,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,22 Feb 2016,house
+"12 Lyell Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121244286,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDgxMCwwMTA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,10 Feb 2016,house
+"14 Van Dyke Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121471110,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY4MSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,18 Dec 2015,house
+"32 Hoffman St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-121004742,Contact agent,09 Dec 2015,house
+"67 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120875965,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY3MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,30 Nov 2015,house
+"13 Streep Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-121045622,Contact agent,24 Nov 2015,house
+"81 Landis Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-120653713,Contact agent,19 Nov 2015,house
+"18 Brynner Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-120828349,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Sep 2015,house
+"29 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-120626809,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDc3OSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,05 Sep 2015,house
+"4 Rigg Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-120115717,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3Miw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Aug 2015,house
+"60 Beckett Road, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-120414065,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYwMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,14 Aug 2015,house
+"11 Ustinov Crescent, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-120178321,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Aug 2015,house
+"9/95 Beckett Road, McDowall", 2, 2, 1,/sold/property-unit-qld-mcdowall-118880687,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM1NCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,18 May 2015,unit
+"876 Rode Road, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-119429059,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM4Nyw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 May 2015,house
+"12 Wanaka Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-118797571,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 May 2015,house
+"120 Keona Road, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118314867,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDkxNyw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,31 Mar 2015,house
+"26 Landis Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118835579,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,24 Mar 2015,house
+"1 Chevalier St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118988079,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUwMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,19 Mar 2015,house
+"39 Gleason Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-118782235,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUzNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,12 Mar 2015,house
+"5 Dunaway Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-118781339,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUxNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Feb 2015,house
+"29 Minnelli Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118841939,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY5NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Feb 2015,house
+"11 Keona Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-118649195,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 Jan 2015,house
+"21 Redford Cres, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118670971,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,05 Jan 2015,house
+"6 Culkin Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118493275,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5OSw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 Dec 2014,house
+"17 Eastwood Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118417895,Contact agent,03 Dec 2014,house
+"15 Metro Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-118301767,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5MCwzMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Dec 2014,house
+"88 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-118243699,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ4NSw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,02 Dec 2014,house
+"11 Macnee St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118180771,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY1NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Nov 2014,house
+"4 Metro Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-118068267,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUyNCw5OTA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,06 Nov 2014,house
+"11 Van Dyke Crescent, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-117787351,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDc3NCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,30 Oct 2014,house
+"10 Nelson Court, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-118071291,Contact agent,26 Oct 2014,house
+"21 Poitier Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-117987355,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUwNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,22 Oct 2014,house
+"2 Jagger Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117950235,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUxNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Oct 2014,house
+"Address available on request, McDowall", 2, 6, 2,/sold/property-house-qld-mcdowall-117215939,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY0MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,13 Oct 2014,house
+"76 Minnelli Place, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-117944939,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY3MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,10 Oct 2014,house
+"72 Streisand Drive, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-114120507,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,25 Sep 2014,house
+"69 Hackman Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-117329039,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYwOCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,22 Sep 2014,house
+"9 Voigt Street, McDowall", 3, 3, 0,/sold/property-house-qld-mcdowall-117173287,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5Myw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Sep 2014,house
+"94 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-117581351,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5MSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,05 Sep 2014,house
+"8 Leanne Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116875903,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUzNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,05 Sep 2014,house
+"96 Paramount Cct, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-116897239,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY0NywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,31 Jul 2014,house
+"1 Crowe Close, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-116906079,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYyNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,14 Jul 2014,house
+"9 Janssen Street, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-117208135,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Jul 2014,house
+"4 Zeppo Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-117111691,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,02 Jul 2014,house
+"23 Peppard Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-117034903,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ5OSw5MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,01 Jul 2014,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115715403,Contact agent,01 Jul 2014,house
+"Lot 16, Tranquil Place, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200785919,"Range: $330,000 - $390,000",20 Jun 2014,residential land
+"7 Astaire Place, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-116907211,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Jun 2014,house
+"8 Landis Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-116906299,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Jun 2014,house
+"27 Redford Crescent, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-106890293,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYxNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,05 Jun 2014,house
+"8 Farrow Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-116984927,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4NywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Jun 2014,house
+"22 Pilbeam Place, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-116655263,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM4NywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 May 2014,house
+"Lot 18, Tranquil Place, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200785911,"Range: $340,000 - $400,000",20 May 2014,residential land
+"5 Landon Close, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-116611179,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDg4MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,30 Apr 2014,house
+"32 Raven Street, McDowall", 2, 4, 3,/sold/property-house-qld-mcdowall-116169895,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,09 Apr 2014,house
+"13 Seberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-116253791,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYyNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Apr 2014,house
+"Address available on request, McDowall", 3, 4, 6,/sold/property-other-qld-mcdowall-112532567,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDEsNTAwLDAwMA==?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Apr 2014,other
+"4 Connery Street, McDowall", 2, 3, 3,/sold/property-house-qld-mcdowall-115909807,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY1NywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,28 Mar 2014,house
+"15 Osmond Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-115291791,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ4NCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,20 Mar 2014,house
+"11/216 Trouts Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-115178983,Contact agent,07 Mar 2014,townhouse
+"17 Speilberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115795359,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Mar 2014,house
+"16 Kingfisher Close, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-116027411,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDkwMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 Feb 2014,house
+"84 Paramount Circuit, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115433907,Contact agent,31 Jan 2014,house
+"365 Trouts Road, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-115229403,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU0MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,23 Jan 2014,house
+"6 Rigg Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115347983,Contact agent,15 Jan 2014,house
+"14 Peppard Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114682239,Contact agent,20 Dec 2013,house
+"4 Bardot Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-115622511,Contact agent,18 Dec 2013,house
+"10 Cilento Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-115500971,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU0NSw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,09 Dec 2013,house
+"30 Peppard Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114915627,Contact agent,03 Dec 2013,house
+"14 Osmond Street, McDowall", 1, 4, 2,/sold/property-house-qld-mcdowall-115131491,Contact agent,21 Nov 2013,house
+"19 Speilberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114459727,Contact agent,21 Nov 2013,house
+"2 Kline Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-115107579,Contact agent,11 Nov 2013,house
+"60 Beckett Road, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-114762031,Contact agent,24 Oct 2013,house
+"41 Margaret Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114752659,Contact agent,15 Oct 2013,house
+"7 Bardot Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-114704803,Contact agent,30 Sep 2013,house
+"16 Bassey Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113363523,Contact agent,19 Sep 2013,house
+"17 Calhoun Street, McDowall", 1, 3, 3,/sold/property-house-qld-mcdowall-114693459,Contact agent,18 Sep 2013,house
+"3 Goldwyn Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-114296179,Contact agent,13 Sep 2013,house
+"820 Hamilton Road, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-113931603,Contact agent,13 Sep 2013,house
+"4 Macgraw Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113600843,Contact agent,19 Jul 2013,house
+"7 Huston Close, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-113462311,Contact agent,01 Jul 2013,house
+"16 Seberg Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-113472639,Contact agent,01 Jul 2013,house
+"4 Eastwood Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-113718071,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYxNiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Jun 2013,house
+"5 Lazenby Street, McDowall", 4, 4, 4,/sold/property-house-qld-mcdowall-113297111,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDk1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,31 May 2013,house
+"5 Mayo Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113599563,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU2NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 May 2013,house
+"Address available on request, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-113243847,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 May 2013,house
+"43 Landis St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-113587495,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU2NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,13 May 2013,house
+"Address available on request, McDowall", 2, 2, 2,/sold/property-apartment-qld-mcdowall-113649147,Contact agent,06 May 2013,apartment
+"113 Keona Road, McDowall", 3, 4, 5,/sold/property-house-qld-mcdowall-107189376,Contact agent,22 Apr 2013,house
+"5 Fabray Place, McDowall", 2, 3, 4,/sold/property-house-qld-mcdowall-112906519,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUwNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,12 Apr 2013,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-112908023,Contact agent,04 Apr 2013,house
+"26/28 Keona Road, McDowall", 3, 3, 2,/sold/property-townhouse-qld-mcdowall-112769319,Contact agent,18 Mar 2013,townhouse
+"5 Peppard Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-112687823,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,15 Mar 2013,house
+"828 Hamilton Road, McDowall", 1, 3, 4,/sold/property-house-qld-mcdowall-112687615,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM2NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,28 Feb 2013,house
+"8 Speilberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-112686895,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,15 Feb 2013,house
+"50 Keona Road, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200366375,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM2OCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,17 Dec 2012,residential land
+"13/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-villa-qld-mcdowall-111317363,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM2MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,14 Dec 2012,villa
+"6 Ladd Close, McDowall", 3, 5, 4,/sold/property-house-qld-mcdowall-111547035,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDc0MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,10 Dec 2012,house
+"11 Bassey St, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-112232199,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,28 Nov 2012,house
+"18/ 195 Old Northern Road, McDowall", 1, 3, 1,/sold/property-townhouse-qld-mcdowall-111463143,Contact agent,28 Nov 2012,townhouse
+"8 Janssen Street, McDowall", 1, 4, 2,/sold/property-house-qld-mcdowall-111611711,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQzMSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 Nov 2012,house
+"23 Hackman Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-111670395,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,23 Oct 2012,house
+"11 Landis Street, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-111497387,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,13 Sep 2012,house
+"67 Hackman Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-110291753,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,20 Aug 2012,house
+"106 Keona Road, McDowall",,,,/sold/property-residential+land-qld-mcdowall-200286891,Contact agent,30 Jul 2012,residential land
+"Address available on request, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-110440061,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU0NywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Jul 2012,house
+"21/960 Hamilton Road, McDowall", 3, 3, 1,/sold/property-townhouse-qld-mcdowall-110642741,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM0Myw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,22 Jun 2012,townhouse
+"7 Hughes Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-110107861,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYxMywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,07 Jun 2012,house
+"15 Brando St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-109968351,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ3NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 May 2012,house
+"16 Wyngarde Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-109912991,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 Apr 2012,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-108253526,Contact agent,25 Jan 2012,house
+"1 Hanks Place, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-108409196,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Jan 2012,house
+"40 Beckett Road, McDowall", 1, 4, 4,/sold/property-house-qld-mcdowall-108051371,Contact agent,08 Jan 2012,house
+"155 Streisand Drive, McDowall", 5, 6, 4,/sold/property-house-qld-mcdowall-107553687,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDEsMTUwLDAwMA==?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Dec 2011,house
+"25 Eastwood Place, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-109025336,Contact agent,14 Nov 2011,house
+"160 Streisand Dr, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-107505747,Contact agent,12 Nov 2011,house
+"17 Andress Street, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-107408437,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY3NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,07 Oct 2011,house
+"6 Seinfeld  Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107302050,Contact agent,24 Sep 2011,house
+"6 Hoskins Close, McDowall", 2, 5, 4,/sold/property-house-qld-mcdowall-105538586,Contact agent,07 Sep 2011,house
+"101 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107258979,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU2OCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,09 Aug 2011,house
+"73 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-107580981,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ1MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,01 Aug 2011,house
+"71 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107291243,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,18 Jul 2011,house
+"73 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-107428631,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ1MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,05 Jul 2011,house
+"Address available on request, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-107382457,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ0Nyw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,26 May 2011,house
+"23 Bisset Pl, McDowall", 3, 5, 3,/sold/property-house-qld-mcdowall-107124446,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Mar 2011,house
+"12 Lisa Street, McDowall", 3, 4, 2,/sold/property-townhouse-qld-mcdowall-107008785,Contact agent,09 Mar 2011,townhouse
+"Address available on request, McDowall", 1, 3, 1,/sold/property-villa-qld-mcdowall-106991932,Contact agent,18 Feb 2011,villa
+"17 Gielgud Crescent, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-107063522,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY3OSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,14 Feb 2011,house
+"4 Farrow Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-107062389,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYzOCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,06 Feb 2011,house
+"19 Laurina Crescent, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-107115244,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDc0MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 Jan 2011,house
+"86 De Mille Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-107103907,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,25 Jan 2011,house
+"1 Savalas St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106996592,Contact agent,09 Dec 2010,house
+"34 Brynner Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-106994060,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ0MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,30 Nov 2010,house
+"24 Gielgud Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106646624,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,13 Nov 2010,house
+"8 Hanks Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106884936,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Nov 2010,house
+"Address available on request, McDowall", 2, 3, 0,/sold/property-house-qld-mcdowall-106862222,Contact agent,18 Oct 2010,house
+"18 Goodman Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106673267,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDcwNCw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,15 Oct 2010,house
+"3 Astaire Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-106747751,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU1NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Oct 2010,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106761559,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYxMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 Sep 2010,house
+"18 Speilberg Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106661930,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Sep 2010,house
+"41 Redford Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106695697,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Sep 2010,house
+"2 Ekland Court, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-106618133,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Sep 2010,house
+"47 Redford Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106723903,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYwNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Sep 2010,house
+"32 Matthau Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106666187,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDc2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,24 Aug 2010,house
+"34 Sinatra Crescent, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-106701756,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUzMiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 Aug 2010,house
+"10/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-106634955,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM4NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Aug 2010,townhouse
+"36 Redford Crescent, McDowall", 2, 4, 0,/sold/property-house-qld-mcdowall-106509474,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY0MywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,26 Jul 2010,house
+"1-5 Hughes Street, McDowall",,,,/sold/property-residential+land-qld-mcdowall-2694494,Contact agent,22 Jul 2010,residential land
+"40 Gielgud Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106562001,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3Nyw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,16 Jul 2010,house
+"14 Wyngarde Street, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-106534456,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ4NCw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,06 Jun 2010,house
+"9/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-106509976,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM4MiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Jun 2010,townhouse
+"18 Monroe Place, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-106374428,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,10 May 2010,house
+"Address available on request, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-106262973,"Range: $355,000 - $415,000",04 May 2010,house
+"4/960 Hamilton, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-106392280,Contact agent,17 Apr 2010,townhouse
+"13 Chevalier Street, McDowall", 3, 3, 2,/sold/property-house-qld-mcdowall-106332541,Contact agent,09 Apr 2010,house
+"Address available on request, McDowall",,,,/sold/property-residential+land-qld-mcdowall-2732158,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM0NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,07 Apr 2010,residential land
+"6 Seberg Street, McDowall", 2, 3, 1,/sold/property-house-qld-mcdowall-106433522,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUyNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Apr 2010,house
+"8 Carides Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106196272,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,31 Mar 2010,house
+"7 Bening Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106329553,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYzNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 Mar 2010,house
+"150 Streisand Drive, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106280609,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDc3MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,01 Mar 2010,house
+"40 Raven Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-106281621,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4MSw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,23 Feb 2010,house
+"987 Rode Road, McDowall", 3, 4, 4,/sold/property-house-qld-mcdowall-106159144,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUzOSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,15 Feb 2010,house
+"14 Cosby Place, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-106238795,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYyOSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Feb 2010,house
+"29 Redford Crescent, McDowall", 3, 4, 3,/sold/property-house-qld-mcdowall-106204408,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU4MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,03 Feb 2010,house
+"1 Redford Crescent, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-106000834,Contact agent,14 Dec 2009,house
+"28/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-106104139,Contact agent,05 Nov 2009,townhouse
+"16 Cosby Place, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105938558,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDYwNSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 Oct 2009,house
+"4 Hackman Street, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-105799929,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQxMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,26 Aug 2009,house
+"17 Walpole Street, McDowall", 2, 4, 1,/sold/property-house-qld-mcdowall-105732698,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,20 Aug 2009,house
+"11 Blake Close, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-105827960,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Aug 2009,house
+"75 De Mille Street, McDowall", 1, 4, 1,/sold/property-house-qld-mcdowall-105735643,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQzMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,30 Jun 2009,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105637239,Contact agent,26 Jun 2009,house
+"4 Chico Place, McDowall", 3, 4, 5,/sold/property-house-qld-mcdowall-105680424,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDY5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,06 Jun 2009,house
+"15 Stallone Circuit, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-105711404,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,21 May 2009,house
+"11 Belafonte Street, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105579552,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDU3MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,19 May 2009,house
+"51 Gleason Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-105541873,Contact agent,30 Apr 2009,house
+"28 Lisa Street, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-105577938,Contact agent,22 Apr 2009,townhouse
+"20/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-105596358,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,20 Apr 2009,townhouse
+"26 Hoffman Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-105585468,Contact agent,14 Apr 2009,house
+"32 Beckett Road, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-105460730,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM2MywwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,08 Apr 2009,house
+"17 Bassey Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-105649646,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDUyMCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,04 Apr 2009,house
+"7 Ruggles Court, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105444591,Contact agent,23 Mar 2009,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105474613,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ1NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,09 Mar 2009,house
+"17 Seberg Street, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-105446953,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQwNSw1MDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,30 Jan 2009,house
+"Address available on request, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-105350970,Contact agent,27 Jan 2009,house
+"16 Macgraw Street, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-105142704,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ1MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,11 Nov 2008,house
+"11/195 Old Northern Road, McDowall", 1, 3, 1,/sold/property-townhouse-qld-mcdowall-105062475,Contact agent,13 Oct 2008,townhouse
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-104703325,Contact agent,06 Oct 2008,house
+"19 Laurina Cr, McDowall", 3, 5, 2,/sold/property-house-qld-mcdowall-104905340,"Range: $615,000 - $715,000",12 Sep 2008,house
+"6 Landis St, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-104939886,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ2MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,27 Aug 2008,house
+"Address available on request, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-104945632,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ2NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,07 Aug 2008,house
+"Address available on request, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-104935676,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,17 Jul 2008,house
+"36 Gielgud Cr, McDowall", 2, 3, 2,/sold/property-house-qld-mcdowall-104928804,Contact agent,04 Jul 2008,house
+"17 Gielgud Cres, McDowall", 2, 5, 2,/sold/property-house-qld-mcdowall-104973860,Contact agent,30 Jun 2008,house
+"341 Trouts Rd, McDowall", 1, 3, 2,/sold/property-house-qld-mcdowall-104885249,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM4NSwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,26 Jun 2008,house
+"92 DeMille St, McDowall", 1, 3, 1,/sold/property-house-qld-mcdowall-104639189,Contact agent,12 Jun 2008,house
+"Address available on request, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-105042236,"Range: $390,000 - $460,000",10 Mar 2008,apartment
+"Address available on request, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-104530861,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM4NiwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,22 Feb 2008,townhouse
+"5 Ford Close, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-104379262,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDQ5MCwwMDA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,29 Nov 2007,house
+"16 Cilento St, McDowall", 2, 2, 1,/sold/property-house-qld-mcdowall-104211513,<img class=""property-price__image"" src=""https://text-to-image.realestate.com.au/convert/JDM5MywwMjA=?font-family=MuseoSans-500&amp;font-weight=normal&amp;color=333f48&amp;font-size=32&amp;left=0&amp;top=0"">,10 Oct 2007,house
+"6/234 Trouts Road, McDowall", 2, 3, 1,/sold/property-villa-qld-mcdowall-107335957,Contact agent,03 Dec 2003,villa
+"3 Redford Crescent, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105996125,Contact agent,28 Jun 2002,house
+"Address available on request, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-105988115,Contact agent,17 Jun 2002,house
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105872512,Contact agent,26 Apr 2002,house
+"20/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-townhouse-qld-mcdowall-105054930,Contact agent,,townhouse
+"402/117 Flockton Street, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-104510883,Contact agent,,apartment
+"608/117 Flockton Street, McDowall", 2, 3, 2,/sold/property-apartment-qld-mcdowall-104517754,Contact agent,,apartment
+"29 Stallone Circuit, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-105790878,Contact agent,,house
+"134 Streisand Drive, McDowall", 3, 4, 2,/sold/property-house-qld-mcdowall-106165703,Contact agent,,house
+"303/117 Flockton Street, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-104510882,Contact agent,,apartment
+"609/117 Flockton Street, McDowall", 2, 3, 2,/sold/property-apartment-qld-mcdowall-104517753,Contact agent,,apartment
+"2/960 Hamilton Road, McDowall", 2, 3, 1,/sold/property-unit-qld-mcdowall-107872061,Contact agent,,unit
+"Address available on request, McDowall", 2, 4, 2,/sold/property-house-qld-mcdowall-105493073,Contact agent,,house
+"403/117 Flockton Street, McDowall", 2, 2, 1,/sold/property-apartment-qld-mcdowall-104510881,Contact agent,,apartment
+"16/62 Rogers Parade West, Everton Park", 2, 2, 1,/sold/property-townhouse-qld-everton+park-124999662,"$415,000",30 Mar 2017,townhouse
+"23/6 Myrtle Crescent, Bridgeman Downs", 2, 3, 2,/sold/property-townhouse-qld-bridgeman+downs-124956466,"$370,000",29 Mar 2017,townhouse
+"13 Violet Street, Everton Hills", 1, 3, 2,/sold/property-house-qld-everton+hills-124936082,Contact agent,28 Mar 2017,house
+"15 Yeerinbool Court, Arana Hills", 2, 3, 2,/sold/property-house-qld-arana+hills-124625082,"$485,000",18 Apr 2017,house
+"Lot 67 Saltbeck Close, Bridgeman Downs", 4, 5, 2,/sold/property-house-qld-bridgeman+downs-125028610,"$904,300",15 Apr 2017,house
+"Address available on request, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124038718,"$639,000",12 Apr 2017,house
+"28 Old Northern Road, Albany Creek", 2, 4, 4,/sold/property-house-qld-albany+creek-124192494,"$560,000",12 Apr 2017,house
+"71 Galaxy Street, Bridgeman Downs", 3, 5, 4,/sold/property-house-qld-bridgeman+downs-123447442,"$847,000",10 Apr 2017,house
+"29 Atrium Way, Everton Hills", 3, 5, 2,/sold/property-house-qld-everton+hills-124231930,"$755,000",10 Apr 2017,house
+"91 View Crescent, Arana Hills", 2, 4, 4,/sold/property-house-qld-arana+hills-124855558,"$585,500",10 Apr 2017,house
+"Lot 58 Saltbeck Close, Bridgeman Downs", 3, 4, 2,/sold/property-house-qld-bridgeman+downs-125028590,"$796,400",07 Apr 2017,house
+"Lot 4 Needham Place, Bridgeman Downs", 3, 5, 2,/sold/property-house-qld-bridgeman+downs-125028614,"$773,700",07 Apr 2017,house
+"5 Mirbelia Street, Everton Hills", 1, 3, 3,/sold/property-house-qld-everton+hills-124854706,"$576,500",06 Apr 2017,house
+"4 Redgrave St, Stafford Heights", 2, 3, 2,/sold/property-house-qld-stafford+heights-124747486,"$572,450",06 Apr 2017,house
+"3 Yalamba Court, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124783998,"$502,000",06 Apr 2017,house
+"24 Grantsell Street, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-123909214,"$495,000",06 Apr 2017,house
+"72/16 Stay Place, Carseldine", 2, 3, 1,/sold/property-villa-qld-carseldine-124652882,"$341,000",06 Apr 2017,villa
+"15 Bangalow Street, Bridgeman Downs", 3, 4, 2,/sold/property-house-qld-bridgeman+downs-124606662,"$770,000",05 Apr 2017,house
+"94 Barton St, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-124805118,"$561,803",05 Apr 2017,house
+"30 Cawdor Street, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124673206,"$518,005",05 Apr 2017,house
+"21  Fairway Outlook, Arana Hills", 2, 3, 2,/sold/property-house-qld-arana+hills-124666574,"$502,000",04 Apr 2017,house
+"23 Terrence Street, Aspley", 1, 3, 2,/sold/property-house-qld-aspley-124864470,"$601,000",03 Apr 2017,house
+"4 Flinders Way, Albany Creek", 2, 4, 3,/sold/property-house-qld-albany+creek-124287598,"$575,000",03 Apr 2017,house
+"108/117 Flockton Street, Everton Park", 1, 1, 1,/sold/property-unit-qld-everton+park-123497974,"$265,200",03 Apr 2017,unit
+"58 Retreat Street, Bridgeman Downs", 4, 4, 7,/sold/property-house-qld-bridgeman+downs-110427609,"$4,960,000",31 Mar 2017,house
+"Lot 10 Pulsar Street, Bridgeman Downs", 4, 5, 2,/sold/property-house-qld-bridgeman+downs-125028582,"$835,700",31 Mar 2017,house
+"Address available on request, Bridgeman Downs", 3, 4, 2,/sold/property-house-qld-bridgeman+downs-125052066,"$768,800",31 Mar 2017,house
+"28 Ansford Street, Stafford Heights", 1, 3, 1,/sold/property-house-qld-stafford+heights-124428978,"$610,000",29 Mar 2017,house
+"44/74 Prospect Road, Gaythorne", 2, 3, 2,/sold/property-apartment-qld-gaythorne-124053262,"$492,500",29 Mar 2017,apartment
+"3 Hibiscus St, Everton Hills", 1, 3, 2,/sold/property-house-qld-everton+hills-123903694,"$480,000",29 Mar 2017,house
+"12/763 Zillmere Road, Aspley", 1, 2, 1,/sold/property-retirement+living-qld-aspley-124385338,"$225,000",29 Mar 2017,retirement living
+"15 Luckins Street, Aspley", 3, 4, 2,/sold/property-house-qld-aspley-123456946,"$650,000",28 Mar 2017,house
+"Lot 1, 29 Navua Avenue, Aspley",,,,/sold/property-residential+land-qld-aspley-201737290,"$345,000",28 Mar 2017,residential land
+"Lot 2, 29 Navua Avenue, Aspley",,,,/sold/property-residential+land-qld-aspley-201737294,"$315,000",28 Mar 2017,residential land
+"Lot 3, 29 Navua Avenue, Aspley",,,,/sold/property-residential+land-qld-aspley-201737298,"$315,000",28 Mar 2017,residential land
+"492 - 494 Samford Road, Gaythorne", 3, 8, 4,/sold/property-house-qld-gaythorne-124194166,"$1,075,000",27 Mar 2017,house
+"4 Chantilly Court, Albany Creek", 3, 4, 4,/sold/property-house-qld-albany+creek-124779242,"$710,000",27 Mar 2017,house
+"7 Braidwood Street, Everton Park", 2, 3, 2,/sold/property-house-qld-everton+park-124637910,"$622,000",27 Mar 2017,house
+"326 Maundrell Tce, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124450338,"$565,000",27 Mar 2017,house
+"35 Chowchilla St, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124465310,"$530,000",27 Mar 2017,house
+"1/27 Barrymore Street, Everton Park", 2, 3, 2,/sold/property-townhouse-qld-everton+park-124868718,"$525,000",27 Mar 2017,townhouse
+"19 Wynford Street, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-124459138,"$520,000",27 Mar 2017,house
+"100 View Crescent, Arana Hills", 2, 4, 2,/sold/property-house-qld-arana+hills-124581686,"$625,000",24 Mar 2017,house
+"4 Purdy Street, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-124531806,"$573,000",24 Mar 2017,house
+"32 Cobbity Crescent, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124758522,"$430,500",23 Mar 2017,house
+"9/5 Lucy Street, Gaythorne", 1, 1, 1,/sold/property-unit-qld-gaythorne-123427574,"$300,000",23 Mar 2017,unit
+"100 Gordon Parade, Everton Park", 1, 3, 2,/sold/property-house-qld-everton+park-124888654,"$752,335",22 Mar 2017,house
+"42 Hillenvale Avenue, Arana Hills", 2, 4, 2,/sold/property-house-qld-arana+hills-124415486,"$709,000",22 Mar 2017,house
+"9/37 Lade Street, Gaythorne", 2, 3, 2,/sold/property-unit-qld-gaythorne-124779718,"$470,000",22 Mar 2017,unit
+"44 Hawkes Avenue, Arana Hills", 2, 4, 4,/sold/property-house-qld-arana+hills-123813498,"$662,000",20 Mar 2017,house
+"26 Talwin Street, Aspley", 2, 3, 3,/sold/property-house-qld-aspley-124460862,"$647,000",20 Mar 2017,house
+"8 Dorkay Street, Stafford Heights", 1, 3, 4,/sold/property-house-qld-stafford+heights-124754494,"$587,500",20 Mar 2017,house
+"24 Cycas Street, Arana Hills", 1, 3, 1,/sold/property-house-qld-arana+hills-124862098,"$470,000",20 Mar 2017,house
+"24 Cherston Street, Chermside West", 1, 4, 2,/sold/property-house-qld-chermside+west-124745154,"$559,000",19 Mar 2017,house
+"3 Saturn Crescent, Bridgeman Downs", 3, 5, 2,/sold/property-house-qld-bridgeman+downs-124403426,"$778,000",17 Mar 2017,house
+"71 Grays Road, Gaythorne", 2, 5, 2,/sold/property-house-qld-gaythorne-123795850,"$730,000",17 Mar 2017,house
+"3 Lexia Place, Carseldine", 3, 4, 2,/sold/property-house-qld-carseldine-124820278,"$708,000",17 Mar 2017,house
+"39 Lillydale Street, Carseldine", 2, 4, 3,/sold/property-house-qld-carseldine-124047466,"$695,000",17 Mar 2017,house
+"29 Petrie Crescent, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124686134,"$650,000",17 Mar 2017,house
+"17 Darwin Street, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-124479910,"$480,000",17 Mar 2017,house
+"Unit 8, 20 Brickfield Road, Aspley", 1, 2, 1,/sold/property-townhouse-qld-aspley-124736118,"$360,000",17 Mar 2017,townhouse
+"112 Barton Street, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-124678734,"$455,000",16 Mar 2017,house
+"228A Maundrell Terrace, Aspley",,,,/sold/property-residential+land-qld-aspley-201563146,"$520,000",15 Mar 2017,residential land
+"17 Lily Street, Everton Hills", 1, 3, 1,/sold/property-house-qld-everton+hills-124659510,"$499,000",15 Mar 2017,house
+"142 Kirby Road, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-124417218,"$544,500",14 Mar 2017,house
+"25/669 Beams Road, Carseldine", 2, 3, 1,/sold/property-townhouse-qld-carseldine-124652478,"$388,000",14 Mar 2017,townhouse
+"64 KARRI PLACE, Bridgeman Downs", 2, 3, 2,/sold/property-house-qld-bridgeman+downs-124646674,"$765,000",13 Mar 2017,house
+"5 Rupicola Court, Arana Hills", 3, 5, 2,/sold/property-house-qld-arana+hills-124491566,"$730,000",13 Mar 2017,house
+"37 Parton Street, Stafford Heights", 3, 4, 2,/sold/property-house-qld-stafford+heights-124637858,"$655,588",13 Mar 2017,house
+"14  Daniel Drive, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124439510,"$605,000",13 Mar 2017,house
+"9 Bevlin Court, Albany Creek", 2, 3, 2,/sold/property-house-qld-albany+creek-124370450,"$535,000",10 Mar 2017,house
+"257 Webster Road, Stafford Heights", 1, 3, 0,/sold/property-house-qld-stafford+heights-124714266,"$480,000",10 Mar 2017,house
+"5 Cathy Court, Albany Creek", 1, 3, 0,/sold/property-house-qld-albany+creek-124476774,"$430,000",10 Mar 2017,house
+"210/117  Flockton Street, Everton Park", 1, 1, 1,/sold/property-unit-qld-everton+park-124288490,"$310,000",10 Mar 2017,unit
+"10 Goodenia Street, Everton Hills", 1, 4, 4,/sold/property-house-qld-everton+hills-124611758,"$640,000",09 Mar 2017,house
+"14 Nyora Street, Everton Hills", 2, 3, 3,/sold/property-house-qld-everton+hills-124813186,"$605,000",09 Mar 2017,house
+"14 Jacqueline Court, Everton Hills", 2, 4, 2,/sold/property-house-qld-everton+hills-124310610,"$585,000",09 Mar 2017,house
+"37/23 Railton Street, Aspley", 2, 3, 2,/sold/property-townhouse-qld-aspley-124639870,"$390,000",09 Mar 2017,townhouse
+"50/735 Trouts Road, Aspley", 1, 2, 2,/sold/property-townhouse-qld-aspley-124562518,"$350,000",09 Mar 2017,townhouse
+"6/40 Mott Street, Gaythorne", 2, 2, 1,/sold/property-unit-qld-gaythorne-124194870,"$330,000",09 Mar 2017,unit
+"8/55 Grays Road, Gaythorne", 1, 2, 1,/sold/property-unit-qld-gaythorne-124373938,"$325,000",09 Mar 2017,unit
+"23 Ironbark Place, Bridgeman Downs", 3, 5, 2,/sold/property-house-qld-bridgeman+downs-124479346,"$920,000",08 Mar 2017,house
+"24 Mitcham Street, Gaythorne", 1, 3, 4,/sold/property-house-qld-gaythorne-124526878,"$865,000",08 Mar 2017,house
+"7 Janie Street, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124746110,"$640,000",08 Mar 2017,house
+"57 Patricks Road, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124619350,"$460,000",08 Mar 2017,house
+"28/589 Beams Road, Carseldine", 2, 3, 1,/sold/property-townhouse-qld-carseldine-124547058,"$376,000",08 Mar 2017,townhouse
+"34 Wyman Street, Stafford Heights", 3, 4, 2,/sold/property-house-qld-stafford+heights-124827518,"$839,000",07 Mar 2017,house
+"11 Max Court, Albany Creek", 2, 5, 2,/sold/property-house-qld-albany+creek-124613082,"$579,000",07 Mar 2017,house
+"165 Plucks Road, Arana Hills", 2, 4, 1,/sold/property-house-qld-arana+hills-124756166,"$520,000",07 Mar 2017,house
+"2/45 Lacey Road, Carseldine", 2, 3, 1,/sold/property-townhouse-qld-carseldine-122853722,"$365,000",07 Mar 2017,townhouse
+"25 Fairlane Street, Chermside West", 2, 3, 2,/sold/property-house-qld-chermside+west-124757546,"$657,000",06 Mar 2017,house
+"12 Brian Morrison Drive, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124724198,"$640,000",06 Mar 2017,house
+"16 Barrymore Street, Everton Park", 1, 4, 1,/sold/property-house-qld-everton+park-124784466,"$631,200",06 Mar 2017,house
+"15 Broula Street, Stafford Heights", 1, 3, 1,/sold/property-house-qld-stafford+heights-124613382,"$610,000",06 Mar 2017,house
+"18 Lucan Avenue, Aspley", 2, 3, 2,/sold/property-house-qld-aspley-124581682,"$580,000",06 Mar 2017,house
+"8 Strathford Avenue, Albany Creek", 2, 3, 7,/sold/property-house-qld-albany+creek-124600258,"$572,500",06 Mar 2017,house
+"442 South Pine Road, Everton Park", 2, 3, 1,/sold/property-house-qld-everton+park-123494362,"$560,000",06 Mar 2017,house
+"16/8 Lackeen Street, Everton Park", 3, 4, 2,/sold/property-townhouse-qld-everton+park-124751994,"$531,500",06 Mar 2017,townhouse
+"20 Cuphea Street, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124721306,"$530,000",06 Mar 2017,house
+"2 Sharon Court, Albany Creek", 1, 4, 1,/sold/property-house-qld-albany+creek-124293818,"$530,000",06 Mar 2017,house
+"27 Kingfisher Street, Albany Creek", 1, 3, 2,/sold/property-house-qld-albany+creek-124602938,"$515,000",06 Mar 2017,house
+"13 Gilford Crescent, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124495622,"$510,000",06 Mar 2017,house
+"1/669 Beams Road, Carseldine", 2, 4, 2,/sold/property-house-qld-carseldine-124243658,"$505,000",06 Mar 2017,house
+"3/40 Griffith Street, Everton Park", 1, 2, 1,/sold/property-villa-qld-everton+park-124455094,"$352,000",06 Mar 2017,villa
+"1/28 Cutbush Rd, Everton Park", 1, 2, 1,/sold/property-townhouse-qld-everton+park-124697930,"$335,000",06 Mar 2017,townhouse
+"14 Belfort Street, Stafford Heights", 3, 3, 3,/sold/property-house-qld-stafford+heights-124417938,"$810,000",03 Mar 2017,house
+"21 Huxtable Street, Chermside West", 2, 4, 2,/sold/property-house-qld-chermside+west-124733722,"$775,000",03 Mar 2017,house
+"3 Cosme Place, Bridgeman Downs", 2, 5, 2,/sold/property-house-qld-bridgeman+downs-124066470,"$680,000",03 Mar 2017,house
+"31 Augusta Street, Aspley", 3, 4, 2,/sold/property-house-qld-aspley-124513578,"$675,000",03 Mar 2017,house
+"31 Hornby Street, Everton Park", 1, 4, 1,/sold/property-house-qld-everton+park-124581358,"$535,000",03 Mar 2017,house
+"19 Pullen Road, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-124626234,"$499,000",03 Mar 2017,house
+"51/25 Northmarque Street, Carseldine", 2, 4, 2,/sold/property-townhouse-qld-carseldine-124237326,"$410,000",03 Mar 2017,townhouse
+"85 Fallon Street, Everton Park", 2, 4, 2,/sold/property-house-qld-everton+park-122587606,"$1,150,000",02 Mar 2017,house
+"217 Kirby Road, Aspley", 2, 4, 0,/sold/property-house-qld-aspley-124714382,"$800,000",02 Mar 2017,house
+"92 Felstead Street, Everton Park", 2, 4, 3,/sold/property-house-qld-everton+park-124354674,"$635,000",02 Mar 2017,house
+"42 Maundrell Terrace, Chermside West", 1, 3, 4,/sold/property-house-qld-chermside+west-123936674,"$515,000",02 Mar 2017,house
+"37 Mailmans Track, Bunya",,,,/sold/property-residential+land-qld-bunya-201681126,"$380,000",02 Mar 2017,residential land
+"14 Cawarra Street, Carseldine", 2, 5, 2,/sold/property-house-qld-carseldine-124726902,"$751,000",01 Mar 2017,house
+"22 Strathford Avenue, Albany Creek", 1, 3, 2,/sold/property-house-qld-albany+creek-124263714,"$525,000",01 Mar 2017,house
+"12 Jillaine Street, Everton Hills", 2, 4, 2,/sold/property-house-qld-everton+hills-124120850,"$735,000",28 Feb 2017,house
+"2 Highland Place, Bridgeman Downs", 2, 4, 2,/sold/property-house-qld-bridgeman+downs-124315662,"$735,000",28 Feb 2017,house
+"40 Dicaprio Circuit, Bridgeman Downs", 2, 4, 2,/sold/property-house-qld-bridgeman+downs-123979186,"$715,000",28 Feb 2017,house
+"5 Covey Street, Chermside West", 2, 3, 2,/sold/property-house-qld-chermside+west-123886414,"$575,000",28 Feb 2017,house
+"56 Remick Street, Stafford Heights", 2, 4, 2,/sold/property-house-qld-stafford+heights-123853778,"$560,000",28 Feb 2017,house
+"Address available on request, Bridgeman Downs", 3, 4, 2,/sold/property-house-qld-bridgeman+downs-124106442,"$770,000",27 Feb 2017,house
+"23 Centre Street, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-123194734,"$681,000",27 Feb 2017,house
+"Address available on request, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-123194730,"$670,000",27 Feb 2017,house
+"4 Seligan Street, Albany Creek", 2, 3, 4,/sold/property-house-qld-albany+creek-124461166,"$610,500",27 Feb 2017,house
+"14/30 Graham Road, Carseldine", 1, 2, 1,/sold/property-villa-qld-carseldine-124682350,"$333,000",27 Feb 2017,villa
+"64 Redwood Street, Stafford Heights", 1, 3, 1,/sold/property-house-qld-stafford+heights-124562470,"$835,000",25 Feb 2017,house
+"15 Ashley Road, Chermside West", 2, 3, 2,/sold/property-house-qld-chermside+west-124745506,"$728,500",24 Feb 2017,house
+"45 Walkers Road (cul-de-sac), Everton Hills", 2, 4, 2,/sold/property-house-qld-everton+hills-124447302,"$680,000",24 Feb 2017,house
+"24 Dicaprio Circuit, Bridgeman Downs", 2, 4, 2,/sold/property-house-qld-bridgeman+downs-125076130,"$660,000",24 Feb 2017,house
+"178 Flockton Street, Everton Park", 1, 3, 2,/sold/property-house-qld-everton+park-124289622,"$505,000",24 Feb 2017,house
+"20/60 Prospect Road, Gaythorne", 2, 2, 1,/sold/property-apartment-qld-gaythorne-124239554,"$405,000",24 Feb 2017,apartment
+"24/128 Queens Road, Everton Park", 1, 2, 2,/sold/property-townhouse-qld-everton+park-123303242,"$335,000",24 Feb 2017,townhouse
+"6/596 South Pine Road, Everton Park", 2, 2, 1,/sold/property-unit-qld-everton+park-124466090,"$296,000",24 Feb 2017,unit
+"47 Carson Drive, Bunya", 2, 4, 3,/sold/property-house-qld-bunya-124490618,"$985,000",23 Feb 2017,house
+"41 Darien Street, Bridgeman Downs", 2, 5, 2,/sold/property-house-qld-bridgeman+downs-123812598,"$475,000",23 Feb 2017,house
+"23 Moyston Street, Carseldine", 4, 5, 4,/sold/property-house-qld-carseldine-125011310,"$855,000",22 Feb 2017,house
+"53 Russell Street, Everton Park", 2, 4, 2,/sold/property-house-qld-everton+park-124389818,"$700,000",22 Feb 2017,house
+"12 Bunny Street, Everton Park", 2, 4, 2,/sold/property-house-qld-everton+park-124601694,"$668,000",22 Feb 2017,house
+"18 Kurrajong Street, Everton Park", 1, 3, 2,/sold/property-house-qld-everton+park-124606846,"$470,000",22 Feb 2017,house
+"2/30 Slade Street, Carseldine", 2, 4, 2,/sold/property-townhouse-qld-carseldine-124436962,"$430,000",22 Feb 2017,townhouse
+"2/7 Lucy Street, Gaythorne", 1, 2, 1,/sold/property-unit-qld-gaythorne-123257758,"$302,000",22 Feb 2017,unit
+"12 Janie Street, Aspley", 2, 4, 4,/sold/property-house-qld-aspley-124416514,"$630,000",21 Feb 2017,house
+"333 Maundrell Terrace, Aspley", 1, 3, 2,/sold/property-house-qld-aspley-123173090,"$515,000",21 Feb 2017,house
+"7 Weber Court, Bunya", 3, 4, 4,/sold/property-acreage+semi-rural-qld-bunya-124217694,"$850,000",20 Feb 2017,acreage/semi-rural
+"5 Boronia Court, Albany Creek", 3, 5, 2,/sold/property-house-qld-albany+creek-124431498,"$810,000",20 Feb 2017,house
+"239A Maundrell Terrace, Aspley", 3, 5, 2,/sold/property-house-qld-aspley-124462350,"$750,000",20 Feb 2017,house
+"20 Ailsa street, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124487886,"$709,000",20 Feb 2017,house
+"68 Sizer Street, Everton Park", 1, 3, 2,/sold/property-house-qld-everton+park-124599542,"$580,000",20 Feb 2017,house
+"Address available on request, Stafford Heights", 2, 3, 2,/sold/property-house-qld-stafford+heights-124462038,"$553,000",20 Feb 2017,house
+"40 Redgrave Street, Stafford Heights", 1, 3, 2,/sold/property-house-qld-stafford+heights-124413202,"$534,300",20 Feb 2017,house
+"5/19 Brickfield Rd, Aspley", 2, 2, 1,/sold/property-unit-qld-aspley-124576138,"$325,000",20 Feb 2017,unit
+"34 Minto Crescent, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124561566,"$461,000",18 Feb 2017,house
+"23 Aquarius Place, Bridgeman Downs", 3, 5, 4,/sold/property-house-qld-bridgeman+downs-124952210,"$1,075,000",17 Feb 2017,house
+"44 Pangeza Street, Stafford Heights", 2, 4, 2,/sold/property-house-qld-stafford+heights-124759178,"$760,000",17 Feb 2017,house
+"8 Frontignac Street, Carseldine", 3, 5, 2,/sold/property-house-qld-carseldine-124625986,"$751,000",17 Feb 2017,house
+"8 Rosanne Street, Aspley", 2, 4, 3,/sold/property-house-qld-aspley-124422366,"$635,000",17 Feb 2017,house
+"Address available on request, Albany Creek", 1, 3, 3,/sold/property-house-qld-albany+creek-124415762,"$515,000",17 Feb 2017,house
+"1 Ashley Road, Chermside West", 2, 4, 2,/sold/property-house-qld-chermside+west-124416410,"$512,000",17 Feb 2017,house
+"6 Fresco Street, Albany Creek", 2, 3, 1,/sold/property-townhouse-qld-albany+creek-124441830,"$412,000",17 Feb 2017,townhouse
+"6/37 Marathon Street, Aspley", 1, 2, 1,/sold/property-villa-qld-aspley-123917466,"$338,000",17 Feb 2017,villa
+"12 Delan St, Chermside West", 2, 3, 2,/sold/property-house-qld-chermside+west-124419754,"$621,100",16 Feb 2017,house
+"46 Spina Crescent, Carseldine", 2, 4, 2,/sold/property-house-qld-carseldine-124463298,"$570,000",16 Feb 2017,house
+"5 Aspleybank Street, Aspley", 2, 3, 3,/sold/property-house-qld-aspley-124318318,"$550,000",16 Feb 2017,house
+"55/39 Pitta Place, Carseldine", 2, 3, 2,/sold/property-townhouse-qld-carseldine-124260582,"$387,000",16 Feb 2017,townhouse
+"25 Heston St, Stafford Heights", 1, 4, 2,/sold/property-house-qld-stafford+heights-124382362,"$581,000",15 Feb 2017,house
+"53 Daniel Drive, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124415498,"$530,000",15 Feb 2017,house
+"1/85 View Crescent, Arana Hills", 1, 3, 3,/sold/property-villa-qld-arana+hills-124620490,"$440,000",15 Feb 2017,villa
+"7 Hedge Court, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-123639810,"$750,000",14 Feb 2017,house
+"23 Milburn Street, Chermside West", 1, 3, 3,/sold/property-house-qld-chermside+west-124629110,"$655,000",14 Feb 2017,house
+"52 Nilkerie Street, Carseldine", 2, 4, 2,/sold/property-house-qld-carseldine-123902278,"$600,000",14 Feb 2017,house
+"6/702 Trouts Road, Aspley", 2, 4, 2,/sold/property-townhouse-qld-aspley-122847222,"$455,000",14 Feb 2017,townhouse
+"26 Barton Street, Everton Park", 3, 5, 2,/sold/property-house-qld-everton+park-124418322,"$812,500",13 Feb 2017,house
+"9 Acacia Street, Everton Hills", 2, 4, 0,/sold/property-house-qld-everton+hills-124257866,"$630,000",13 Feb 2017,house
+"7 Nile Court, Albany Creek", 2, 3, 2,/sold/property-house-qld-albany+creek-123956454,"$525,000",13 Feb 2017,house
+"10 Felstead Street, Everton Park", 3, 4, 2,/sold/property-house-qld-everton+park-124433830,"$815,000",10 Feb 2017,house
+"16 Cain Street, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-124428818,"$495,000",10 Feb 2017,house
+"34 Sauterne Street, Carseldine", 3, 5, 3,/sold/property-house-qld-carseldine-124448142,"$795,000",09 Feb 2017,house
+"11 Zephyr Street, Aspley", 1, 3, 2,/sold/property-house-qld-aspley-123938554,"$560,000",09 Feb 2017,house
+"18 Blackwood Drive, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124620414,"$540,000",09 Feb 2017,house
+"30/107 Soames Street, Everton Park", 2, 4, 2,/sold/property-townhouse-qld-everton+park-119911761,"$525,000",09 Feb 2017,townhouse
+"47/107 Soames St, Everton Park", 2, 3, 2,/sold/property-townhouse-qld-everton+park-122214910,"$505,000",09 Feb 2017,townhouse
+"4/107 SOAMES ST, Everton Park", 2, 3, 2,/sold/property-townhouse-qld-everton+park-121970906,"$490,000",09 Feb 2017,townhouse
+"9/107 Soames Street, Everton Park", 2, 3, 2,/sold/property-townhouse-qld-everton+park-119801163,"$490,000",09 Feb 2017,townhouse
+"5/107 Soames Street, Everton Park", 2, 3, 2,/sold/property-townhouse-qld-everton+park-123496074,"$480,000",09 Feb 2017,townhouse
+"24/69 Lacey Rd, Carseldine", 2, 4, 3,/sold/property-townhouse-qld-carseldine-120631681,"$450,000",09 Feb 2017,townhouse
+"14/69 Lacey Rd, Carseldine", 2, 3, 1,/sold/property-villa-qld-carseldine-120626925,"$370,000",09 Feb 2017,villa
+"13/69 LACEY RD, Carseldine", 2, 2, 1,/sold/property-villa-qld-carseldine-121970198,"$350,000",09 Feb 2017,villa
+"15/69 Lacey Rd, Carseldine", 2, 2, 1,/sold/property-villa-qld-carseldine-120623105,"$345,000",09 Feb 2017,villa
+"33 Bramcote Street, Chermside West", 2, 5, 2,/sold/property-house-qld-chermside+west-122914570,"$582,000",08 Feb 2017,house
+"14 Chingford Street, Chermside West", 1, 3, 1,/sold/property-house-qld-chermside+west-124562926,"$566,200",08 Feb 2017,house
+"19 Yathong Court, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124323394,"$453,000",08 Feb 2017,house
+"719 South Pine Road, Everton Park", 1, 3, 4,/sold/property-house-qld-everton+park-124321414,"$680,000",07 Feb 2017,house
+"64 View Crescent, Arana Hills", 2, 3, 2,/sold/property-house-qld-arana+hills-124516602,"$666,000",07 Feb 2017,house
+"4/60 Prospect Road, Gaythorne", 2, 3, 2,/sold/property-unit-qld-gaythorne-124416554,"$505,000",07 Feb 2017,unit
+"30 Oakmont Crescent, Albany Creek", 2, 4, 3,/sold/property-house-qld-albany+creek-124421742,"$820,000",06 Feb 2017,house
+"28 Horn Road, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124428042,"$756,000",06 Feb 2017,house
+"2 Muscat Place, Carseldine", 2, 4, 3,/sold/property-house-qld-carseldine-124246002,"$745,000",06 Feb 2017,house
+"10 Gregory Place, Albany Creek", 3, 4, 2,/sold/property-house-qld-albany+creek-124298998,"$602,500",06 Feb 2017,house
+"9 McAdam Street, Everton Park", 2, 3, 3,/sold/property-house-qld-everton+park-124390966,"$598,000",06 Feb 2017,house
+"67 Narellan Street, Arana Hills", 1, 3, 4,/sold/property-house-qld-arana+hills-124427270,"$539,000",06 Feb 2017,house
+"22 Newman Street, Gaythorne",,,,/sold/property-residential+land-qld-gaythorne-201640374,"$473,000",06 Feb 2017,residential land
+"144 Plucks Road, Arana Hills", 2, 3, 2,/sold/property-house-qld-arana+hills-124463050,"$460,000",06 Feb 2017,house
+"43 Streeton Pde, Everton Park", 2, 3, 2,/sold/property-house-qld-everton+park-124444238,"$640,000",03 Feb 2017,house
+"16 Gumview Street, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124081022,"$570,000",03 Feb 2017,house
+"21 Strathdale Street, Aspley", 2, 4, 3,/sold/property-house-qld-aspley-124303458,"$548,000",03 Feb 2017,house
+"57 Fallon Street, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-124234226,"$515,000",03 Feb 2017,house
+"132 Plucks Road, Arana Hills", 1, 3, 1,/sold/property-house-qld-arana+hills-123824026,"$470,000",03 Feb 2017,house
+"5 Mcqueen Street, Stafford Heights",,,,/sold/property-residential+land-qld-stafford+heights-201716826,"$385,000",03 Feb 2017,residential land
+"10 Nitawill Street, Everton Park", 3, 3, 2,/sold/property-house-qld-everton+park-124603566,"$640,000",02 Feb 2017,house
+"41 Blackwood Drive, Arana Hills", 4, 4, 2,/sold/property-house-qld-arana+hills-123876614,"$632,500",02 Feb 2017,house
+"30 Scenic Close, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124254206,"$586,000",02 Feb 2017,house
+"48 Macaranga Crescent, Carseldine", 2, 4, 2,/sold/property-house-qld-carseldine-123953282,"$580,000",02 Feb 2017,house
+"374 Webster Road, Stafford Heights", 1, 3, 3,/sold/property-house-qld-stafford+heights-124388898,"$518,500",01 Feb 2017,house
+"8 Seagal Court, Bridgeman Downs", 3, 5, 3,/sold/property-house-qld-bridgeman+downs-124315906,"$853,000",30 Jan 2017,house
+"2 Wanimo Street, Gaythorne", 3, 4, 2,/sold/property-house-qld-gaythorne-124502914,"$820,000",30 Jan 2017,house
+"21 Wivenhoe Avenue, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124208810,"$737,000",30 Jan 2017,house
+"14 Quandong Crescent, Arana Hills", 2, 4, 2,/sold/property-house-qld-arana+hills-124267718,"$680,000",30 Jan 2017,house
+"1/31 Mitcham Street, Gaythorne", 2, 3, 2,/sold/property-townhouse-qld-gaythorne-124504366,"$485,000",30 Jan 2017,townhouse
+"15 Scenic Close, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124004182,"$628,000",27 Jan 2017,house
+"19 Windrest Avenue, Aspley", 1, 3, 3,/sold/property-house-qld-aspley-123578906,"$595,000",27 Jan 2017,house
+"2 Booyong Place, Bridgeman Downs", 2, 3, 2,/sold/property-house-qld-bridgeman+downs-124307390,"$575,000",27 Jan 2017,house
+"4 Biggs Court, Albany Creek", 1, 3, 3,/sold/property-house-qld-albany+creek-124309314,"$525,000",27 Jan 2017,house
+"1/1257 Gympie Road, Aspley", 1, 2, 1,/sold/property-house-qld-aspley-123193398,"$477,000",27 Jan 2017,house
+"32 Hunter Street, Everton Park",,,,/sold/property-residential+land-qld-everton+park-201622866,"$432,500",27 Jan 2017,residential land
+"16/36 Darien Street, Bridgeman Downs", 3, 3, 1,/sold/property-unit-qld-bridgeman+downs-124249238,"$375,000",27 Jan 2017,unit
+"24 Belfort Street, Stafford Heights", 2, 3, 2,/sold/property-house-qld-stafford+heights-124889446,"$687,000",25 Jan 2017,house
+"87 Bellevue Avenue, Gaythorne", 2, 3, 1,/sold/property-house-qld-gaythorne-124073190,"$620,000",25 Jan 2017,house
+"11 Tallebudgera Crescent, Albany Creek", 2, 4, 2,/sold/property-house-qld-albany+creek-124077026,"$548,000",25 Jan 2017,house
+"11 Dolcoath Street, Albany Creek", 1, 3, 2,/sold/property-house-qld-albany+creek-124296786,"$485,000",25 Jan 2017,house
+"13 Dolcoath Street, Albany Creek", 1, 3, 4,/sold/property-house-qld-albany+creek-124276646,"$397,000",25 Jan 2017,house
+"64 Horn Road, Aspley", 2, 4, 2,/sold/property-house-qld-aspley-124344734,"$625,000",24 Jan 2017,house
+"1117 South Pine Rd, Arana Hills", 2, 5, 2,/sold/property-house-qld-arana+hills-124015578,"$560,000",24 Jan 2017,house
+"16 Cycas Street, Arana Hills", 1, 3, 4,/sold/property-house-qld-arana+hills-124412670,"$535,500",24 Jan 2017,house
+"96 Minto Crescent, Arana Hills", 2, 3, 4,/sold/property-house-qld-arana+hills-124346626,"$524,001",24 Jan 2017,house
+"11/150 Albany Creek Road, Aspley", 2, 3, 1,/sold/property-townhouse-qld-aspley-123548002,"$375,000",24 Jan 2017,townhouse
+"47 Redwood Street, Stafford Heights", 3, 5, 2,/sold/property-house-qld-stafford+heights-123802078,"$1,010,000",23 Jan 2017,house
+"25 Quandong Crescent, Everton Hills", 2, 4, 2,/sold/property-house-qld-everton+hills-124140794,"$635,000",23 Jan 2017,house
+"19 Fairlane Street, Chermside West", 2, 3, 3,/sold/property-house-qld-chermside+west-123285026,"$605,000",23 Jan 2017,house
+"65 Folkstone Avenue, Albany Creek", 1, 3, 7,/sold/property-house-qld-albany+creek-124315246,"$550,100",23 Jan 2017,house
+"236 Appleby Road, Stafford Heights", 1, 3, 1,/sold/property-house-qld-stafford+heights-123976838,"$525,000",23 Jan 2017,house
+"9 Leitchs Road South, Albany Creek", 1, 4, 1,/sold/property-house-qld-albany+creek-124255750,"$480,000",23 Jan 2017,house
+"6/47 Ballinderry Street, Everton Park", 2, 3, 2,/sold/property-townhouse-qld-everton+park-123874182,"$473,500",23 Jan 2017,townhouse
+"2/40 Griffith Street, Everton Park", 1, 2, 1,/sold/property-villa-qld-everton+park-123977162,"$340,000",23 Jan 2017,villa
+"3 Holly Court, Albany Creek", 3, 5, 4,/sold/property-house-qld-albany+creek-123882054,"$869,000",20 Jan 2017,house
+"10 Yathong Court, Arana Hills", 2, 3, 2,/sold/property-house-qld-arana+hills-124323854,"$542,000",20 Jan 2017,house
+"165 Kirby Road, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-111636011,"$420,000",20 Jan 2017,house
+"29 Hunter Street, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-123882558,"$510,000",19 Jan 2017,house
+"20 Koolewong Street, Stafford Heights", 1, 3, 2,/sold/property-house-qld-stafford+heights-123980586,"$490,000",19 Jan 2017,house
+"Address available on request, Albany Creek", 1, 3, 2,/sold/property-house-qld-albany+creek-124178066,"$455,000",19 Jan 2017,house
+"16 Frederick St, Albany Creek", 2, 4, 3,/sold/property-house-qld-albany+creek-124217470,"$625,000",18 Jan 2017,house
+"42 Horn Road, Aspley", 2, 3, 2,/sold/property-house-qld-aspley-124385858,"$550,000",18 Jan 2017,house
+"30/40 Grove Avenue, Arana Hills", 1, 2, 1,/sold/property-townhouse-qld-arana+hills-123580946,"$335,000",18 Jan 2017,townhouse
+"37 Eclipse Street, Bridgeman Downs", 3, 5, 2,/sold/property-house-qld-bridgeman+downs-124228086,"$885,000",17 Jan 2017,house
+"1 Greenhill Street, Everton Park", 1, 3, 1,/sold/property-house-qld-everton+park-123984602,"$570,000",17 Jan 2017,house
+"4/246 Pickering Street, Gaythorne", 2, 3, 1,/sold/property-townhouse-qld-gaythorne-123918630,"$431,000",17 Jan 2017,townhouse
+"96 Kenna Street, Aspley", 3, 5, 3,/sold/property-house-qld-aspley-124144946,"$790,000",16 Jan 2017,house
+"10 Cardiff Close, Bridgeman Downs", 2, 5, 2,/sold/property-house-qld-bridgeman+downs-123798858,"$785,000",16 Jan 2017,house
+"20 Pelton Street, Aspley", 1, 3, 1,/sold/property-house-qld-aspley-124200730,"$532,500",16 Jan 2017,house
+"8 Sloane Street, Stafford Heights", 2, 4, 2,/sold/property-house-qld-stafford+heights-123989078,"$531,000",16 Jan 2017,house
+"6 Walkers Road, Everton Hills", 1, 3, 2,/sold/property-house-qld-everton+hills-124088174,"$468,000",16 Jan 2017,house
+"11/36 Darien Street, Bridgeman Downs", 2, 3, 2,/sold/property-townhouse-qld-bridgeman+downs-124039570,"$420,000",16 Jan 2017,townhouse
+"11/133 Albany Creek Road, Aspley", 1, 2, 1,/sold/property-townhouse-qld-aspley-124116462,"$325,000",16 Jan 2017,townhouse
+"12 Felstead Street, Everton Park", 3, 4, 2,/sold/property-house-qld-everton+park-124849194,"$845,000",15 Jan 2017,house
+"18 Pullen Rd, Everton Park", 2, 4, 1,/sold/property-house-qld-everton+park-124334826,"$620,000",14 Jan 2017,house
+"7 Koala Court, Bunya", 2, 5, 2,/sold/property-acreage+semi-rural-qld-bunya-123605454,"$785,000",13 Jan 2017,acreage/semi-rural
+"33 Flockton Street, Stafford Heights", 2, 4, 2,/sold/property-house-qld-stafford+heights-124140026,"$580,000",13 Jan 2017,house
+"7 Delvin Court, Arana Hills", 2, 3, 2,/sold/property-house-qld-arana+hills-124208870,"$552,000",13 Jan 2017,house
+"41 Basnett Street, Chermside West", 1, 2, 1,/sold/property-house-qld-chermside+west-123788434,"$459,000",13 Jan 2017,house
+"1 Double Bar Court, Arana Hills", 1, 3, 1,/sold/property-house-qld-arana+hills-124187834,"$475,000",12 Jan 2017,house
+"5 Talwin street, Aspley", 1, 3, 2,/sold/property-house-qld-aspley-124295658,"$445,000",12 Jan 2017,house
+"35 Constellation Crescent, Bridgeman Downs",,,,/sold/property-residential+land-qld-bridgeman+downs-201641794,"$340,000",12 Jan 2017,residential land
+"22 Nellings Place, Aspley", 3, 4, 2,/sold/property-house-qld-aspley-123643690,"$743,000",11 Jan 2017,house
+"3 Augusta Court, Albany Creek", 2, 5, 3,/sold/property-house-qld-albany+creek-124244190,"$737,000",11 Jan 2017,house
+"455 Ellison Road, Aspley", 1, 3, 2,/sold/property-house-qld-aspley-123975410,"$530,000",11 Jan 2017,house
+"17/30 Slade Street, Carseldine", 2, 4, 2,/sold/property-townhouse-qld-carseldine-123893726,"$413,000",11 Jan 2017,townhouse
+"14/25 Felstead Street, Everton Park", 1, 2, 1,/sold/property-villa-qld-everton+park-124303490,"$355,000",11 Jan 2017,villa
+"30 Blackwood Drive, Arana Hills", 1, 3, 2,/sold/property-house-qld-arana+hills-124341678,"$512,000",10 Jan 2017,house
+"46 Pleasant Drive, Albany Creek", 2, 3, 1,/sold/property-house-qld-albany+creek-124145586,"$480,000",10 Jan 2017,house
+"6/48 Leatherwood Drive, Arana Hills", 3, 3, 2,/sold/property-townhouse-qld-arana+hills-123938814,"$464,000",10 Jan 2017,townhouse
+"23 Apulia Place, Bridgeman Downs", 4, 6, 3,/sold/property-house-qld-bridgeman+downs-123582242,"$894,000",09 Jan 2017,house
+"7 Egret Court, Albany Creek", 3, 5, 2,/sold/property-house-qld-albany+creek-123504778,"$670,700",09 Jan 2017,house
+"3 Frigo Court, Bunya", 2, 3, 2,/sold/property-house-qld-bunya-123998954,"$605,000",09 Jan 2017,house
