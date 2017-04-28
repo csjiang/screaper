@@ -21,5 +21,3 @@ A favor for a good friend, an exercise in using Casper to scrape a React website
 2. then run: `$ node convert.js [exact same filename as before]` (don't include an extension!)
 	- example usage: `$ node convert.js diamond-creek` 
 
-## notes
-- 'buy' listings don't work yet! 
