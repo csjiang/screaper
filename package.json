@@ -1,6 +1,6 @@
 {
   "name": "realestate-au-scraper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Improve your life by programmatically scraping Australian property listings.",
   "main": "index.js",
   "scripts": {

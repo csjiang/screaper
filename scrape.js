@@ -7,86 +7,154 @@ var casper = require('casper').create({
   	}
 })
 
-var url, query, filename
 // configure based on args passed in from command line
-url = 'https://www.realestate.com.au/' + casper.cli.get('type')
+var type, url, query, filename
+type = casper.cli.get('type')
+url = 'https://www.realestate.com.au/' + type
 query = casper.cli.get('query')
 filename = casper.cli.get('output') + '.js'
 
 var currentPage = 1
 var allPropertyInfo = []
 
+var dev = true
+if (dev) {
+	casper.on('remote.message', function(message) {
+	  this.echo('remote console.log: ' + message)
+	})
+} 
+
+var sel = type === 'sold' 
+	? {
+		card: '.property-card',
+		link: '.property-card__link',
+		price: '.property-price',
+		address: '.property-card__info-text span',
+		features: '.general-features',
+		next: '.pagination__next a.pagination__link',
+		endReached: function() { return casper.exists('.pagination__next > .pagination__link.rui-button-disabled') },
+		resultsCount: '.total-results-count',
+		// property type + sold date only available for sold properties
+		proptype: '.property-card__property-type',
+		sold: '.property-card__with-comma span'
+	} 
+	: {
+		card: '.resultBody',
+		link: '.name',
+		price: '.propertyStats p:first-child',
+		address: '.name',
+		features: '.rui-property-features',
+		next: '.nextLink a',
+		endReached: function() { return !casper.exists('.nextLink a') },
+		resultsCount: '#resultsInfo p',
+		// open house date + auction date only available for buy properties
+		auction: '.type',
+		open: '.openTime'
+	} 
+
 function terminate() {
+	this.echo('Reached end of searchable data; terminating browsing')
+	allPropertyInfo = require('utils').serialize(allPropertyInfo)
+	writeToFile(filename, allPropertyInfo)
     this.echo('Exiting...').exit()
 }
 
-function logPropertyInfo () {
+function logPropertyInfo (sel) {
 
-	// strips weird React wrapping in spans
-	function cleanText(string) {
-		return string.replace(/\<!-- \/?react-text(?:: )?[0-9]* \-->/g, '')
+	// checks within the bound selector for the field selector and returns data specified or null if selector doesn't exist. 
+	function getField (fieldSel, attrib, transformFn) {
+		var field = this.querySelector(fieldSel)
+		if (field) {
+			var result;
+			switch (attrib) {
+				case 'text': 
+					result = field.innerText
+					break
+				case 'href':
+					result = field.getAttribute('href')
+					break
+				default: 
+					result = innerHTML
+					break
+			}
+			if (transformFn) result = transformFn(result)
+			return result 
+		} else {
+			return null
+		}
 	}
 
-	// returns an object with property info for the selector card
+	// returns an object with property info for the given card
 	function getInfo(cardSel) {
 		var info = {
 			link: null,
 			price: null,
-			address: '',
-			type: '',
-			solddate: null,
+			address: null,
 			beds: null,
 			baths: null,
 			cars: null
 		}
-		var cardContentSel = cardSel.querySelector('.property-card__content')
+
+		var getFieldBound = getField.bind(cardSel)
 
 		// sets properties if available 
-		info.link = cardSel.querySelector('.property-card__link').getAttribute('href')
-		info.price = cardContentSel.querySelector('.property-price').innerHTML
-		info.address = cleanText(cardContentSel.querySelector('.property-card__info-text span').innerHTML)
-		info.type = cardContentSel.querySelector('.property-card__property-type').innerHTML
-		info.solddate = cardContentSel.querySelector('.property-card__with-comma span').innerHTML.split('Sold on ')[1]
+		info.link = getFieldBound(sel.link, 'href')
+		info.price = getFieldBound(sel.price, 'text')
+		info.address = getFieldBound(sel.address, 'text')
 
-		if (cardContentSel.querySelector('.general-features')) {
-			info.beds = cleanText(cardContentSel.querySelector('.general-features__beds').innerHTML)
-			info.baths = cleanText(cardContentSel.querySelector('.general-features__baths').innerHTML)
-			info.cars = cleanText(cardContentSel.querySelector('.general-features__cars').innerHTML)	
+		// get extra properties 
+		if (sel.proptype) {
+			info.type = getFieldBound(sel.proptype, 'text')
+			info.solddate = getFieldBound(sel.sold, 'text', function(str) { return str.split('Sold on ')[1] })
+		} else {
+			info.auctiondate = getFieldBound(sel.auction, 'text', function(str) { return str.split('Auction ')[1] }) 
+			info.openhouse = getFieldBound(sel.open, 'text', function(str) { return str.split('Open ')[1] })
 		}
+
+		// get beds/baths/car count
+		var features = getFieldBound(sel.features, 'text', function(str) { return str.match(/\d/g) })
+		if (features) {
+			info.beds = features[0] || null
+			info.baths = features[1] || null
+			info.cars = features[2]	|| null
+		}
+
 		return info
 	}
 
-	var allPropertyInfo = document.querySelectorAll('.property-card')
+	var propListings = document.querySelectorAll(sel.card)
 
-	return Array.prototype.map.call(allPropertyInfo, function(e) {
-		return getInfo(e)
+	return Array.prototype.map.call(propListings, function(e) {
+		//TODO: get child property listings for luxury projects
+		if (sel.auction && e.querySelector('.project-child-listings')) return null
+		else return getInfo(e)
 	})
 }
 
 function writeToFile(filename, contentsAsArray) {
-	console.log('Writing scraped data to output file at output/' + filename + '.js')
+	console.log('Writing scraped data to output file at output/' + filename)
 	fs.write(fs.pathJoin(fs.workingDirectory, 'output', filename), 'module.exports = ' + contentsAsArray, 'a')
 }
 
 function processPage() {
 	// Adds property info for the current page's listings to the master array
-	allPropertyInfo = allPropertyInfo.concat(this.evaluate(logPropertyInfo))
+	allPropertyInfo = allPropertyInfo.concat(this.evaluate(logPropertyInfo, sel))
 
 	// Terminates browsing and writes to output after reaching the last page or scraping 1,000 listings
-	if (currentPage >= 50 || this.exists('.pagination__next > .pagination__link.rui-button-disabled')) {
-
-		this.echo('Reached end of searchable data; terminating browsing')
-		allPropertyInfo = require('utils').serialize(allPropertyInfo)
-		writeToFile(filename, allPropertyInfo)
+	if (currentPage >= 50 || sel.endReached()) {
 		return terminate.call(casper)
 	}
 
 	// Navigates to the next page, waits for it to load, and recurses
 	currentPage += 1
 	this.echo('Proceeding to the next page')
-    this.thenClick('.pagination__next a.pagination__link')
+    this.thenClick(sel.next)
     .then(function() {
-        this.waitForSelectorTextChange('.total-results-count', processPage, terminate)
+    	if (type === 'sold') {
+    		this.waitForSelectorTextChange(sel.resultsCount, processPage, terminate)
+    	} else {
+    		this.wait(5000, processPage, terminate)
+    	}
     })
 }
 
@@ -104,7 +172,7 @@ casper.then(function() {
 
 casper.then(function() {
 	// Start the scraping process
-	this.waitForSelector('.results-card a', processPage, terminate)
+	this.waitForSelector(sel.card, processPage, terminate)
 })
 
 casper.run()

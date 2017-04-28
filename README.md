@@ -1,6 +1,9 @@
 # realestate.com.au scraper
 (unaffiliated with the site + solely for private use) 
 
+## updates
+- 4/28/17: scraping 'buy' listings now works (see new examples under output/) + refactoring of scrape.js
+
 ## requirements 
 
 - [PhantomJS](http://phantomjs.org/download.html)
